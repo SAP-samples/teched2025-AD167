@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2023 session called AD167 - Extend SAP S/4HANA and SAP SuccessFactors with event-driven automation
+This repository contains the material for the SAP TechEd 2025 session called AD167 - Extend SAP S/4HANA and SAP SuccessFactors with event-driven automation
 
 This interactive hands-on session will provide you with insights and actual experience on how SAP Build Process Automation helps you transform and extend business processes while keeping your SAP S/4HANA and SAP SuccessFactors solutions’ core clean. The SAP Clean Core strategy focuses on minimizing custom modifications within the core SAP system by leveraging standard functionalities and using modern, SAP-supported extension approaches. This ensures the core stays stable, upgradable, and easier to maintain. This enables businesses to more quickly adopt SAP updates 
 and innovations, reduce upgrade and maintenance costs, and improve agility in responding to new business requirements or regulatory changes.
