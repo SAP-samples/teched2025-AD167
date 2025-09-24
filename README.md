@@ -24,7 +24,7 @@ By the end of the session, you will be equipped with the knowledge to leverage t
 
 ## Requirements
 
-There are no dedicated requirement for this exercise. But in case you want to gain some further knowledge around SAP Build you can browse the official materials https://www.sap.com/products/technology-platform/build.html 
+There are no dedicated requirement for this exercise. But in case you want to gain some further knowledge around SAP Build you can browse the official materials of [SAP Build] (https://www.sap.com/products/technology-platform/build.html)
 
 ## Exercises
 
