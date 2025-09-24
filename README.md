@@ -16,9 +16,9 @@ This session introduces attendees how to modify or extend standard business proc
 <img width="1276" height="601" alt="E2EFlow" src="https://github.com/user-attachments/assets/f3f56f8c-8cb9-4507-863a-eda53879bf1e" />
 
 You will:
-•	Learn about the new integration capabilities between SBPA and SAP Cloud Application Event Hub, which enhance event exchange across SAP cloud applications.
-•	Understand how this integration supports SAP’s event-driven architecture initiative, simplifying and optimizing business processes.
-•	Explore practical scenarios and steps for implementing this integration, including setup, event project creation, and process automation.
++ Learn about the new integration capabilities between SBPA and SAP Cloud Application Event Hub, which enhance event exchange across SAP cloud applications.
++ Understand how this integration supports SAP’s event-driven architecture initiative, simplifying and optimizing business processes.
++ Explore practical scenarios and steps for implementing this integration, including setup, event project creation, and process automation.
 
 By the end of the session, you will be equipped with the knowledge to leverage this powerful integration to extend, optimize, and automate your business processes using business events.
 
