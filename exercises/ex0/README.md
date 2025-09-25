@@ -13,13 +13,10 @@ After completing these steps you will have a Sales Order number created without 
 2. Search for va01 and click "Create Sales Order - VA01"
    ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/exercises/ex0/images/VA01.png)
 
+3. Enter Order Type as “OR” and click on “Create with Reference”.
+   ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/exercises/ex0/images/EnterOR.png)
 
-4. Enter Order Type as “OR” and click on “Create with Reference”.
-
-
-5.  
-6.
-7.
+  
 
 ## Summary
 
