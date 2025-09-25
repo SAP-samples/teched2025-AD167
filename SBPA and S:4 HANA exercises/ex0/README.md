@@ -2,7 +2,7 @@
 
 In this exercise, you will create a Sales Order by referring to an existing Sales Order. This Sales Order will not have a billing block. Please note down the Sales Order number generated at the end of the exercise. This is needed later for designing the process and end-to-end testing.
 
-## Level 2 Heading
+## Exercise
 
 After completing these steps you will have a Sales Order number created without a billing block.
 
