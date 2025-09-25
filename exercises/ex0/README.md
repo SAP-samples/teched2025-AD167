@@ -11,14 +11,15 @@ After completing these steps you will have a Sales Order number created without 
   	Username / Password: Login with your user id AD167-XXX@education.cloud.sap where XXX is your assigned user like 001 or 002 and so on and the password will be Acce$$teched25
   	
 2. Search for va01 and click "Create Sales Order - VA01"
+   ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/exercises/ex0/images/VA01.png)
 
 
-3. Enter Order Type as “OR” and click on “Create with Reference”.
+4. Enter Order Type as “OR” and click on “Create with Reference”.
 
 
-4.  
-5.
+5.  
 6.
+7.
 
 ## Summary
 
