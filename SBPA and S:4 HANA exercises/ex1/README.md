@@ -25,16 +25,7 @@ After completing these steps you will have a Sales Order number created without 
 6. Click “Save” and note down the Sales Order number. We will use this later while designing and executing the end-to-end process.
    ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex1/images/SaveSalesOrder.png) 
 
-
-   
 ## Summary
 
-Now that you have created the Sales Order, Continue to - [Exercise 2 - Exercise 2 Description](../ex1/README.md)
-
-
-## Summary
-
-You've now ...
-
-Continue to - [Exercise 2 - Exercise 2 Description](../ex2/README.md)
+Now that you have created the Sales Order, Continue to [Exercise 2 - Exercise 2 Description](../ex2/README.md)
 
