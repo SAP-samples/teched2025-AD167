@@ -31,7 +31,7 @@ In this exercise you will learn:
 
 1. Go to SAP Build and click on the Events on the left. Click on Create to create a New event project in SAP Build.
 
-  ![02](./images/077.png)
+  ![ex2](./images/077.png)
 
 Afterwards, click on Create.
   ![02](./images/078.png)
