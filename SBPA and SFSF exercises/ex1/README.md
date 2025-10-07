@@ -7,11 +7,19 @@ In this exercise, you will be setting up a SAP Build Process Automation (SBPA) p
 
 All you need to do as prerequisite step is to find SAP Build Process Automation (SBPA) project “**New Hire Onboarding Experience – Template**” in you project list in SBPA and do copy of that project. 
 
-#This part is infomrative but not needed for the exercise. As a prerequisite step for utilizing business events for your scenario you would need to enable the events that can be used as a starting point of you process with the help of the event trigger. For that sake an event project should be created in order to consume events.
+This part is infomrative but not needed for the exercise. As a prerequisite step for utilizing business events for your scenario you would need to enable the events that can be used as a starting point of you process with the help of the event trigger. For that sake an event project should be created in order to consume events.
 
 1. In the navigation pane, choose Events.
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/Event%20option%20in%20Lobby.png)
 
+2. Choose Create.
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/Create%20event%20project.png)
+
+Select the following options from the Choose an Event Source window that appears:
+	A. If you select SAP Business Accelerator Hub, choose a specification from the available standard events list and choose  Add.
+	B. If you select Upload Event Specification, drag and drop your import file into the import box. You can also select Browse Files to find and open your import file.
+	C. Choose Unified Customer Landscape, if you want to consume APIs from the different SAP applications. For more information, see Using Unified Customer Landscape (SAP Systems). This is the option you need to use when dealing with SFSF and SBPA integration.
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/Choose%20event%20source.png)
 
 
 ## Exercise steps
