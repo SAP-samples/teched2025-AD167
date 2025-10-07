@@ -21,6 +21,23 @@ Select the following options from the Choose an Event Source window that appears
 - Choose Unified Customer Landscape, if you want to consume APIs from the different SAP applications. For more information, see Using Unified Customer Landscape (SAP Systems). This is the option you need to use when dealing with SFSF and SBPA integration.
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/Choose%20event%20source.png)
 
+3. Select the event collection you would like to use. For the sake of the exercise select SAP SuccessFactors Onboarding Events collection. 
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/Choose%20event%20collection.png)
+
+4. On the next screen select Onboarding Process Step.
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/Onboarding%20Process%20Step.png)
+
+5. Review the events that are part of this collection and click Add.
+
+6. In the Create an Event project dialog box, enter the Project Name and Description.
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/Give%20project%20name%20and%20description.png)
+
+7. Choose create.
+  
+8. The event editor opens immediately after you create a new event project, allowing you to **Release** and **Publish** the project directly from the editor.
+
+9. Once published event project will be listed in the main view. 
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/Event%20project%20created%20and%20listed%20in%20main%20view.png)
 
 ## Exercise steps
 Run through the exercise steps in the given order:
