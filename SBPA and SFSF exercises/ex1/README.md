@@ -4,6 +4,14 @@
 In this exercise, you will be setting up a SAP Build Process Automation (SBPA) project to manage the approval workflow for equipment and training of newly hired employees in SuccessFactors. This workflow will be initiated by an Integration Flow from Cloud Integration. Once the manager approves the equipment and training for the new hires, SBPA publishes an event to the SAP Integration Suite, advanced event mesh topic SBPA/NewHire/{EmployeeId}/Approval for further integration.
 
 ## Prerequisite
+
+This part is infomrative but not needed for the exercise. As a prerequisite step for utilizing business events for your scenario you would need to enable the events that can be used as a starting point of you process with the help of the event trigger. For that sake an event project should be created in order to consume events.
+
+1. In the navigation pane, choose Events.
+<br>![](/exercises/ex2/images/Event option in Lobby.png) <br><br/> 
+
+
+
 SAP Build Process Automation (SBPA) project “**New Hire Onboarding Experience – Template**” is given as a template.
 
 ## Exercise steps
