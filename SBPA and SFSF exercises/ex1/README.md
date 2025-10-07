@@ -16,9 +16,9 @@ This part is infomrative but not needed for the exercise. As a prerequisite step
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/Create%20event%20project.png)
 
 Select the following options from the Choose an Event Source window that appears:
-	A. If you select SAP Business Accelerator Hub, choose a specification from the available standard events list and choose  Add.
-	B. If you select Upload Event Specification, drag and drop your import file into the import box. You can also select Browse Files to find and open your import file.
-	C. Choose Unified Customer Landscape, if you want to consume APIs from the different SAP applications. For more information, see Using Unified Customer Landscape (SAP Systems). This is the option you need to use when dealing with SFSF and SBPA integration.
+- If you select SAP Business Accelerator Hub, choose a specification from the available standard events list and choose  Add.
+- If you select Upload Event Specification, drag and drop your import file into the import box. You can also select Browse Files to find and open your import file.
+- Choose Unified Customer Landscape, if you want to consume APIs from the different SAP applications. For more information, see Using Unified Customer Landscape (SAP Systems). This is the option you need to use when dealing with SFSF and SBPA integration.
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/Choose%20event%20source.png)
 
 
