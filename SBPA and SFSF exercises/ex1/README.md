@@ -5,14 +5,14 @@ In this exercise, you will be setting up a SAP Build Process Automation (SBPA) p
 
 ## Prerequisite
 
-This part is infomrative but not needed for the exercise. As a prerequisite step for utilizing business events for your scenario you would need to enable the events that can be used as a starting point of you process with the help of the event trigger. For that sake an event project should be created in order to consume events.
+All you need to do as prerequisite step is to find SAP Build Process Automation (SBPA) project “**New Hire Onboarding Experience – Template**” in you project list in SBPA and do copy of that project. 
+
+#This part is infomrative but not needed for the exercise. As a prerequisite step for utilizing business events for your scenario you would need to enable the events that can be used as a starting point of you process with the help of the event trigger. For that sake an event project should be created in order to consume events.
 
 1. In the navigation pane, choose Events.
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/Event%20option%20in%20Lobby.png)
 
 
-
-SAP Build Process Automation (SBPA) project “**New Hire Onboarding Experience – Template**” is given as a template.
 
 ## Exercise steps
 Run through the exercise steps in the given order:
