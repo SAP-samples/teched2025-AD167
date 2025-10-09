@@ -65,14 +65,14 @@ Run through the exercise steps in the given order:
   - Project Name: **New Hire Onboarding Experience - AD167-XXX**
   - Description: **An event-driven enterprise automation scenario where you react and respond to a new hire business event using SAP Integration Suite and includes human interactions to achieve an end-to-end employee onboarding business process using SAP Build Process Automation.**
 <br/><br/>Press the **"Save as new"** button to save the new project.
-<br><img![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/save%20as%20new%20projec%20name%20and%20description.png) <br>
+<br><br/><img![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/save%20as%20new%20projec%20name%20and%20description.png)<br>
 
 >  Note: It might take little time for the project creation, so kindly wait.
 
 ### 2)	Add event trigger as a starting point of your process
 
 a.	Click on the created project and in the **Overview** tab, click on “**New Employee Equipment and Training Approval Process**” artifact.
-<br>[alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/Project%20overview%20and%20artifacts.png) <br>
+<br>![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/Project%20overview%20and%20artifacts.png) <br>
 
 b.	Kindly note that the template process appears as shown below and includes various artifacts: <br>
 - Determine Equipments and Trainings branchAD167
@@ -98,7 +98,7 @@ b.	Kindly note that the template process appears as shown below and includes var
 7. Trigger editor is opened. Change the trigger name to New Hire Data Review Initated AD167-XXX by replacing **XXX** with the participant number that is assigned to you. Click Create
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/Create%20event%20trigger.png)
 
-Once created, your trigger is set as a starting point of your process
+8. Once created, your trigger is set as a starting point of your process
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/Trigger%20set%20as%20starting%20point%20of%20process.png)
 
 >  Note: Now, you have your trigger created. 
