@@ -52,8 +52,8 @@ Run through the exercise steps in the given order:
 8) [Get the Process Instance ID](#8get-the-process-instance-id)<br>
 
 ### 1)	Create a new project based on the given "New Hire Onboarding Experience – Template" project and save it
-  a.	Open the [SBPA Lobby](https://in264-72e8h9xc.eu10.build.cloud.sap/lobby) and log in using the user ID and password provided to you by the instructors.<br>
-  b.	Locate the **Process Automation** application with the name “**New Hire Onboarding Experience – Template**”.<br>
+  a.	Open the [SBPA Lobby](https://ad167-6er4l9b1.eu10.build.cloud.sap/lobby) and log in using the user ID and password provided to you by the instructors.<br>
+  b.	Locate the **Process Automation** application with the name “**New Hire Onboarding Process TEMPLATE**”.<br>
   c.	Click on the **Options (3 dots ...)** and select “**Save As New Project**” option.
   <br>![](/exercises/ex2/images/NewProject01.jpg) <br><br/>
   d.  Provide the following details:
@@ -61,61 +61,45 @@ Run through the exercise steps in the given order:
    > Replace **XXX** with the participant number that is assigned to you.
    
   - Select Version: **1.0.0**
-  - Project Name: **New Hire Onboarding Experience - IN264-XXX**
+  - Project Name: **New Hire Onboarding Experience - AD167-XXX**
   - Description: **An event-driven enterprise automation scenario where you react and respond to a new hire business event using SAP Integration Suite and includes human interactions to achieve an end-to-end employee onboarding business process using SAP Build Process Automation.**
 <br/><br/>Press the **"Save as new"** button to save the new project.
 <br><img src="/exercises/ex2/images/NewProject1.0.jpg" width=75% height=75%><br>
 
 >  Note: It might take little time for the project creation, so kindly wait.
 
-### 2)	Add parallel branches to add new Equipment and Training determination rules
+### 2)	Add event trigger as a starting point of your process
 
 a.	Click on the created project and in the **Overview** tab, click on “**New Employee Equipment and Training Approval Process**” artifact.
 <br>![](/exercises/ex2/images/Artifacts_List.jpg) <br>
 
 b.	Kindly note that the template process appears as shown below and includes various artifacts: <br>
-- An API Trigger called Workflow Trigger to start the process. <br>
+- Determine Equipments and Trainings branchAD167
 - Equipment Determination decision to determine equipment for the new employee. <br>
 - Training Determination decision to determine trainings for the new employee. <br>
 - An approval form to approve Equipment and Training Details. <br>
 - Separate Email notifications for approval and rejection flows. <br>
 <br>![](/exercises/ex2/images/NewProject03.png) <br>
 
-c. The '**Equipment Determination**' and '**Training Determination**' decisions are initially set up sequentially in the template project, executed in the specified order. In this step of the exercise, we will reconfigure the setup by incorporating both decisions into parallel branches. This adjustment will enable the determination of equipment and training to occur simultaneously, improving processing speed as there is no interdependency between the two decisions. <br><br>
-      i) Remove the '**Equipment Determination**' decision.
-         <br>![](/exercises/ex2/images/Add_Parallel_Gateway_1.png) <br>
-      ii) Remove the '**Training Determination**' decision.
-          <br>![](/exercises/ex2/images/Add_Parallel_Gateway_2.png) <br>
-d.	Add a Branch.
-<br>![](/exercises/ex2/images/Add_Parallel_Gateway_3.png) <br>
+1. Open New Employee Equipment and Training Approval Process
+![alt text]()
 
-e.	Give the step name as <b>Determine Equipments and Trainings</b>. <br>
-  	Give branches as: <br>
-    i.	<b>Equipment Determination</b> <br>
-    ii.	<b>Training Determination</b>
-<br>![](/exercises/ex2/images/Add_Parallel_Gateway_4.png) <br>
+2. At the initial step of your process click Add a Trigger
+![alt text]()
 
-f.	Click on the **+** button, next to **Equipment Determination** branch and add **Decision -> Equipment Determination**.
+3. Select Wait for an Event from the trigger options. In that way you can use event emmited from external system as a starting point.
+![alt text]()
 
-> Note: Set the step name as **Equipment Determination**.
+4. A list of event project will be displayed. Type New Hire Data Review Initiated in the search field.
+![alt text]()
 
-![](/exercises/ex2/images/Add_Parallel_Gateway_5.png) <br>
+6. Once the record is found, you can click on Add.
+![alt text]()
 
-g.	Map the following **Inputs** of the decision from the <b>Process Inputs</b>: <br>
-  - <b>Job Title</b>
-<br>![](/exercises/ex2/images/Add_Parallel_Gateway_6.png) <br>
+7. Trigger editor is opened. Change the trigger name to New Hire Data Review Initated AD167-XXX by replacing XXX with your username identificator. Click Create
+![alt text]()
 
-h.	Click on the **+** button, next to **Training Determination** branch and add **Decision -> Training Determination**. <br>
-
-> Note: Set the step name as **Training Determination**.
-
-![](/exercises/ex2/images/Add_Parallel_Gateway_7.png) <br>
-
-i.	Map the following **Inputs** of the decision from the <b>Process Inputs</b>: <br>
-  - <b>Job Title</b>
-<br>![](/exercises/ex2/images/Add_Parallel_Gateway_8.png) <br>
-
-> Note: Now, we have created  parallel branches to determine equipment and trainings for the new hire. <br>
+>  Note: Now, you have your trigger created. 
 
 ### 3)	View the Equipment Determination decision for the newly hired employee
   a.	Click on the “**Equipment Determination**” decision. <br>
