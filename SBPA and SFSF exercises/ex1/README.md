@@ -55,11 +55,12 @@ Run through the exercise steps in the given order:
   a.	Open the [SBPA Lobby](https://ad167-6er4l9b1.eu10.build.cloud.sap/lobby) and log in using the user ID and password provided to you by the instructors.<br>
   b.	Locate the **Process Automation** application with the name “**New Hire Onboarding Process TEMPLATE**”.<br>
   c.	Click on the **Options (3 dots ...)** and select “**Save As New Project**” option.
-  <br>![](/exercises/ex2/images/NewProject01.jpg) <br><br/>
+  <br>![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/tree%20dots%20menu.png) <br><br/>
   d.  Provide the following details:
    > [!IMPORTANT]  
    > Replace **XXX** with the participant number that is assigned to you.
-   
+   ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/save%20as%20new%20project.png)
+
   - Select Version: **1.0.0**
   - Project Name: **New Hire Onboarding Experience - AD167-XXX**
   - Description: **An event-driven enterprise automation scenario where you react and respond to a new hire business event using SAP Integration Suite and includes human interactions to achieve an end-to-end employee onboarding business process using SAP Build Process Automation.**
@@ -96,7 +97,7 @@ b.	Kindly note that the template process appears as shown below and includes var
 6. Once the record is found, you can click on Add.
 ![alt text]()
 
-7. Trigger editor is opened. Change the trigger name to New Hire Data Review Initated AD167-XXX by replacing XXX with your username identificator. Click Create
+7. Trigger editor is opened. Change the trigger name to New Hire Data Review Initated AD167-XXX by replacing **XXX** with the participant number that is assigned to you. Click Create
 ![alt text]()
 
 >  Note: Now, you have your trigger created. 
