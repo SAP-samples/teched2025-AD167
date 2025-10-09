@@ -60,8 +60,7 @@ Run through the exercise steps in the given order:
   d.  Provide the following details:
    > [!IMPORTANT]  
    > Replace **XXX** with the participant number that is assigned to you.
-
-
+> 
   - Select Version: **1.0.0**
   - Project Name: **New Hire Onboarding Experience - AD167-XXX**
   - Description: **An event-driven enterprise automation scenario where you react and respond to a new hire business event using SAP Integration Suite and includes human interactions to achieve an end-to-end employee onboarding business process using SAP Build Process Automation.**
