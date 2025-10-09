@@ -86,7 +86,7 @@ b.	Kindly note that the template process appears as shown below and includes var
 2. At the initial step of your process click **Add a Trigger**.
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/Add%20trigger%20step.png)
 
-3. Select Wait for an Event from the trigger options. In that way you can use event emmited from external system as a starting point.
+3. Select **Wait for an Event** from the trigger options. In that way you can use event emmited from external system as a starting point.
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/Wait%20for%20an%20Event%20.png)
 
 4. A list of event project will be displayed. Type **New Hire Data Review Initiated** in the search field and click **Search**.
