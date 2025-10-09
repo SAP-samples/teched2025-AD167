@@ -56,10 +56,11 @@ Run through the exercise steps in the given order:
   b.	Locate the **Process Automation** application with the name “**New Hire Onboarding Process TEMPLATE**”.<br>
   c.	Click on the **Options (3 dots ...)** and select “**Save As New Project**” option.
   <br>![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/tree%20dots%20menu.png) <br><br/>
+  <br>![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/save%20as%20new%20project.png) <br><br/>
   d.  Provide the following details:
    > [!IMPORTANT]  
    > Replace **XXX** with the participant number that is assigned to you.
-   ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/save%20as%20new%20project.png)
+
 
   - Select Version: **1.0.0**
   - Project Name: **New Hire Onboarding Experience - AD167-XXX**
