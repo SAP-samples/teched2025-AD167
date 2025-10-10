@@ -65,7 +65,7 @@ Run through the exercise steps in the given order:
   - Project Name: **New Hire Onboarding Experience - AD167-XXX**
   - Description: **An event-driven enterprise automation scenario where you react and respond to a new hire business event using SAP Integration Suite and includes human interactions to achieve an end-to-end employee onboarding business process using SAP Build Process Automation.**
 <br/><br/>Press the **"Save as new"** button to save the new project.
-<br><br/><img![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/save%20as%20new%20projec%20name%20and%20description.png)<br>
+<br><br/>![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/save%20as%20new%20projec%20name%20and%20description.png)<br>
 
 >  Note: It might take little time for the project creation, so kindly wait.
 
