@@ -43,11 +43,11 @@ Afterwards, click on Create.
 3. In the search bar, search for 'sales order' and scroll down to find **Sales Order Events, SAP S/4HANA Business Events**. Note: Make sure you are selecting event collection from **S/4 HANA Cloud Public Edition for Business events.** Click on it.
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex2/images/Select%20cloud%20s%3A4%20hana%20system.png)
 
-5. Review the event inside and click **Add** to download the set of Events
+4. Review the event inside and click **Add** to download the set of Events
 ![02](./images/081.png)
 
-6. Afterwards, with the Name and Description are automatically populated. So, you can click on Create.
-![02](./images/082.png)
+5. Afterwards, with the Name and Description are automatically populated. Please add the session code and your ID nexto to the autopopulated project name (ex. Sales Order Events_AD167_XXX). Once done, you can click on Create.
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex2/images/Set%20ID%20in%20the%20project%20name.png)
 
 7. Release the project by clicking on **Release** button.
 ![02](./images/083.png)
