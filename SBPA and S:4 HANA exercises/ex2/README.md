@@ -242,7 +242,7 @@ You should now have a table that looks like below with 4 columns:
 11. Select the Approval Form. In the **General** section of the Form:
 
   - Under **Subject**, enter: **Approve billing block removal:** and select **SalesOrder** from the **Process Inputs**
-  - Under **Recipients**, type in your own **Email**
+  - Under **Recipients**, type in your own user that is used for initial login to the systems (ex.AD167-XXX@education.cloud.sap) by relacing the XXX with your ID
 
   ![02](./images//041n.png)
 
