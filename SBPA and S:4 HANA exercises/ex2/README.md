@@ -46,19 +46,16 @@ Afterwards, click on Create.
 4. Review the event inside and click **Add** to download the set of Events
 ![02](./images/081.png)
 
-5. Afterwards, with the Name and Description are automatically populated. Please add the session code and your ID nexto to the autopopulated project name (ex. Sales Order Events_AD167_XXX). Once done, you can click on Create.
+5. Afterwards, the Name and Description of the project are automatically populated. Please add the session code and your ID next to the autopopulated project name (ex. Sales Order Events_AD167_XXX). Once done, you can click on Create.
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex2/images/Set%20ID%20in%20the%20project%20name.png)
 
-7. Release the project by clicking on **Release** button.
+6. Release the project by clicking on **Release** button.
 ![02](./images/083.png)
 
-8. Click on Release to release the project as below.
+7. Click on Release to release the project as below.
 ![02](./images/084.png)
 
-9. Next step is to Publish the project as below and confirm Publish when asked **Are you sure you want to Publish?**
-![02](./images/085.png)
-
-10. Afterwards, you will see that the Event Project has been published as below.
+8. Once released, rhe project is automatically published. Click on the **Released** dropdown button to check the published version. 
 ![02](./images/087.png)
 
 ## Exercise 2.1 - Add Event Trigger to Process <a name="eventTrigger"></a>
@@ -67,7 +64,7 @@ Afterwards, click on Create.
 
 1. In the SAP Build lobby, click on **Create** button: 
 
-  ![02](./images//001.png) 
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex2/images/Set%20ID%20in%20the%20project%20name.png)
 
 2.  Select the **Build an Automated Process**:
 
