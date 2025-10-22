@@ -40,25 +40,25 @@ Afterwards, click on Create.
 
  ![02](./images/079.png)
 
-3. In the search bar, search for 'sales order' and scroll down to find **Sales Order Events, SAP S/4HANA Business Events**. Note: Make sure you are selecting event collection from **S/4 HANA Cloud Public Edition for Business events.** Click on it. 
-![02](./images/Select cloud s/4 hana system.png)
+3. In the search bar, search for 'sales order' and scroll down to find **Sales Order Events, SAP S/4HANA Business Events**. Note: Make sure you are selecting event collection from **S/4 HANA Cloud Public Edition for Business events.** Click on it.
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex2/images/Select cloud s/4 hana system.png)
 
-4. Review the event inside and click **Add** to download the set of Events
+5. Review the event inside and click **Add** to download the set of Events
 ![02](./images/081.png)
 
-5. Afterwards, with the Name and Description are automatically populated. So, you can click on Create.
+6. Afterwards, with the Name and Description are automatically populated. So, you can click on Create.
 ![02](./images/082.png)
 
-6. Release the project by clicking on **Release** button.
+7. Release the project by clicking on **Release** button.
 ![02](./images/083.png)
 
-7. Click on Release to release the project as below.
+8. Click on Release to release the project as below.
 ![02](./images/084.png)
 
-8. Next step is to Publish the project as below and confirm Publish when asked **Are you sure you want to Publish?**
+9. Next step is to Publish the project as below and confirm Publish when asked **Are you sure you want to Publish?**
 ![02](./images/085.png)
 
-9. Afterwards, you will see that the Event Project has been published as below.
+10. Afterwards, you will see that the Event Project has been published as below.
 ![02](./images/087.png)
 
 ## Exercise 2.1 - Add Event Trigger to Process <a name="eventTrigger"></a>
