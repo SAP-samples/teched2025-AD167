@@ -82,9 +82,11 @@ Afterwards, click on Create.
  Great! Your project is now created and you will be able to create your Process.
  
 
-4. In the **Create Process** pop-up:
+4. In the project overview click on Create and select a process from the options:
 
-  - Enter **Name:** Billing Block Removal Process
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex2/images/Create%20a%20process.png)
+
+  - Enter **Name:** Billing Block Removal Process AD167_XXX
   - Enter **Description:** Process to update the billing block based on the Approval
   - Choose **Create**
 
