@@ -55,7 +55,7 @@ Afterwards, click on Create.
 7. Click on Release to release the project as below.
 ![02](./images/084.png)
 
-8. Once released, rhe project is automatically published. Click on the **Released** dropdown button to check the published version. 
+8. Once released, the project is automatically published. Click on the **Released** dropdown button to check the published version. 
 ![02](./images/087.png)
 
 ## Exercise 2.1 - Add Event Trigger to Process <a name="eventTrigger"></a>
@@ -71,7 +71,7 @@ Afterwards, click on Create.
  ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex2/images/Create%20Automated%20process.png)
   
   Next, follow the steps in the wizard and click **Create**:
-    ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex2/images/Create%20project%20wizzard%20step%201.png)
+    ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex2/images/Create%20project%20wizzard%20step%201.jpeg)
 
 3. Let's name our new project to
    **Manage Billing Block in Sales Order** and click **Create**.
