@@ -104,7 +104,7 @@ Afterwards, click on Create.
 
 6. In the **Browse Library** pop-up, you will see the list of available Event Triggers from the Library. In the search bar, search for Billing Block, add filter based on your event project and hit enter.
 
-![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex2/images/Filter%20event%20projects.jpeg)
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex2/images/Filter%20event%20projects%20.jpeg)
 
   - Select **Event:** SalesOrder Billing Block Status Changed (please be aware to select the event project linked to your session ID)
   - Choose **Add**
