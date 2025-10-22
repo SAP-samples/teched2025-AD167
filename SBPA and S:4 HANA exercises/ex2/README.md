@@ -40,8 +40,8 @@ Afterwards, click on Create.
 
  ![02](./images/079.png)
 
-3. In the search bar, search for 'sales order' and scroll down to find **Sales Order Events, SAP S/4HANA Business Events**. Click on it.
-![02](./images/080.png)
+3. In the search bar, search for 'sales order' and scroll down to find **Sales Order Events, SAP S/4HANA Business Events**. Note: Make sure you are selecting event collection from **S/4 HANA Cloud Public Edition for Business events.** Click on it. 
+![02](./images/Select cloud s/4 hana system.png)
 
 4. Review the event inside and click **Add** to download the set of Events
 ![02](./images/081.png)
