@@ -74,9 +74,9 @@ Afterwards, click on Create.
     ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex2/images/Create%20project%20wizzard%20step%201.jpeg)
 
 3. Let's name our new project to
-   **Manage Billing Block in Sales Order** and click **Create**.
+   **Manage Billing Block in Sales Order AD167_XXX** (replace XXX with your ID) and click **Create**.
 
-  ![02](./images//003.png)
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex2/images/Set%20your%20ID%20to%20the%20process%20name.png)
 
 
  Great! Your project is now created and you will be able to create your Process.
