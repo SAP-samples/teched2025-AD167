@@ -64,15 +64,14 @@ Afterwards, click on Create.
 
 1. In the SAP Build lobby, click on **Create** button: 
 
-![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex2/images/Set%20ID%20in%20the%20project%20name.png)
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex2/images/Click%20on%20create%20a%20project.png)
 
-2.  Select the **Build an Automated Process**:
+2.  Select the **Automated Process**:
 
-
-  ![02](./images//002.png)
+ ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex2/images/Create%20Automated%20process.png)
   
-  Next, choose the **Business Process** option:
-    ![02](./images//003n.png)
+  Next, follow the steps in the wizard and click **Create**:
+    ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex2/images/Create%20project%20wizzard%20step%201.png)
 
 3. Let's name our new project to
    **Manage Billing Block in Sales Order** and click **Create**.
