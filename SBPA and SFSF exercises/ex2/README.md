@@ -1,10 +1,12 @@
-# Exercise 2 - Exercise 2 Description
+# Exercise 2 - Add a New Employee in SAP SuccessFactors
 
-In this exercise, we will create...
+In this exercise, you will test the integration scenario by adding a new employee in the SAP SuccessFactors application.
 
-## Exercise 2.1 Sub Exercise 1 Description
+## Exercise
 
-After completing these steps you will have created...
+Run through the following steps:
+1.	Logon to the [SAP SuccessFactors](https://hcm-us10-sales.hr.cloud.sap/login?company=SFEDU033158) application using the user ID and password provided to you by the instructors. Example user id is AD167-001@education.cloud.sap
+
 
 1. Click here.
 <br>![](/exercises/ex2/images/02_01_0010.png)
