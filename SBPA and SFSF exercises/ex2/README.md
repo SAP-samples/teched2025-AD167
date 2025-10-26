@@ -13,15 +13,14 @@ Run through the following steps:
 
 3.	In the Identity section, enter the following details:
 **[!IMPORTANT] ** Replace XXX with the participant number that is assigned to you.
-   - 3.1 Hire Date: Keep the default current date
-   - 3.2 Company: From the drop down list - Ace India (ACE_IND) 
-   - 3.3 Event Reason: From the drop down list - New Hire (HIRNEW)
-   - 3.4 First Name: Any name of your choice
-   - 3.5 Last Name: Any name of your choice
-   - 3.6 Date Of Birth: Select any date, e.g.: Oct 18, 2000
-   - 3.7 Country Of Birth: Select any country, e.g.: India
-   - 3.8 Person Id: IN264-XXX
-   - 3.9 User Name: IN264-XXX
+   - **3.1** Hire Date: Keep the default current date
+   - **3.2** Company: From the drop down list - Ace India (ACE_IND) 
+   - **3.3** Event Reason: From the drop down list - New Hire (HIRNEW)
+   - **3.4** First Name: Any name of your choice
+   - **3.5** Last Name: Any name of your choice
+   - **3.7** Country Of Birth: Select any country, e.g.: India
+   - **3.8** Person Id: IN264-XXX
+   - **3.9** User Name: IN264-XXX
 
 
 
