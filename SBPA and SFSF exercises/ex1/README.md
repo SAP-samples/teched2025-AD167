@@ -82,6 +82,8 @@ Check the final project looks like following and has no errors. Release and Depl
 
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/release.png)
 
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/deploy.png)
+
 ### 8)	Get the Process Instance ID
 
 ## Summary
