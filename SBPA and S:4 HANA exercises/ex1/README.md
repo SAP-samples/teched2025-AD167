@@ -11,19 +11,16 @@ After completing these steps you will have a Sales Order number created without 
   	Username / Password: Login with your user id AD167-XXX@education.cloud.sap where XXX is your assigned user like 001 or 002 and so on and the password will be Acce$$teched25
   	
 2. Search for va01 and click "Create Sales Order - VA01"
-   ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex1/images/VA01.png)
+   ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex1/images/S4step2.png)
 
 3. Enter Order Type as “OR” and click on “Create with Reference”.
-   ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex1/images/EnterOR.png)
+   ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex1/images/S4step3.png)
 
-4. Enter Sold-To-Party, Ship-To-Party, Customer Reference and ensure that the “Billing Block” is blank. This means there is no billing block on the Sales Order.
-   ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex1/images/001.png)
+4.	Click Order tab and enter 86612 in the dedicated Order field. Afterwards click on Copy.
+   ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex1/images/S4step4.png)
 
-5. Click Save and if you get the following warning message below, see if you need to make required corrections. If you still get the same error, press Enter on your keyboard.
-   ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex1/images/002.png)
-
-6. Click “Save” and note down the Sales Order number. We will use this later while designing and executing the end-to-end process.
-   ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex1/images/SaveSalesOrder.png) 
+5.	Sales Order record will be opened. Type “ref” in the Cust. Reference field and click on Save note down the Sales Order number. We will use this later while designing and executing the end-to-end process..
+   ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex1/images/S4step5.png) 
 
 ## Summary
 
