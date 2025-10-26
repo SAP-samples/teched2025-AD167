@@ -5,11 +5,11 @@ In this exercise, you will test the integration scenario by adding a new employe
 ## Exercise
 
 Run through the following steps:
-1.	Logon to the [SAP SuccessFactors](https://hcm-us10-sales.hr.cloud.sap/login?company=SFEDU033158) application using the user ID and password provided to you by the instructors. Example user id is AD167-001@education.cloud.sap
+1.	Logon to the [SAP SuccessFactors](https://hcm-us10-sales.hr.cloud.sap/login?company=SFEDU033158) application using the user ID and password provided to you by the instructors. Example user id is AD167-XXX@education.cloud.sap, where XXX is your user ID.
 
 
-1. Click here.
-<br>![](/exercises/ex2/images/02_01_0010.png)
+2.	Search for Add New Employee and select Add New Employee list entry and this would bring us to the Add New Employee Wizard.
+<br>![](/exercises/ex1/images/sfstep2.png)
 
 2.	Insert this line of code.
 ```abap
