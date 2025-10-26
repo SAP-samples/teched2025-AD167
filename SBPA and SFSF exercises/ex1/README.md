@@ -27,28 +27,35 @@ description
 
 2. Select Wait for an Event.
 
-3. Type New Hire Data Review Initiated in the search field of the library. Once listed, you can click on Add.
+3. Type New Hire Data Review Initiated in the search field of the library. Once listed, you can click on **Add**.
 
-4. In the trigger editor add you session ID and user ID the to the suggested trigger’s name and then click on Create. 
+4. In the trigger editor add you session ID and user ID the to the suggested trigger’s name and then click on **Create**. 
 
 >  Note: Now, you have your trigger created. 
 
 ### 3)	Map process inputs
 
+1. Map the Process Inputs in Inputs tab for the step “Get entity from EmpEmployment by key” for files personIdExternal and userId and **Save**.
 
+2. In General tab check if the destination is set, if not then Add SFSFDestination and **Save**.
+
+3. Enter the mapping for the next action field and **Save**. Add emailNav,phoneNav,personalInfoNav,socialAccountNav in $expand. Check the destination and use the previous destination if it does not exist and **Save**.
+
+4. For Equipment Determination Decision, map the Job Title from the output of the step “Get entity from EmpEmployment by key” and **Save**. Do the same for training determination.
+
+5. For “Equipment and Training Request Approval Form” , add the personIdExternal from Process Inputs to the Subject and also update the users to receive the task in my inbox. Click Save.
+
+6. For the Create Purchase Order for Laptop, check the destination is set as for S4HANADestination.
+
+7. For approved and rejected email notifications, please enter your email id to receive the email.
 
 ### 4)	View the Training Determination decision for the newly hired employee
 
 
-### 5)	 Configure approval form inputs to the data from equipment and training decisions
-
- 
-
-### 6)	Consume Actions project to publish the approval event to Advanced Event Mesh(AEM)
-
 
 ### 7)	Release and Deploy
 
+Check the final project looks like following and has no errors. Release and Deploy the project to an environment name AD167_SFSF. Note that the deployment is successful.
 
 ### 8)	Get the Process Instance ID
 
