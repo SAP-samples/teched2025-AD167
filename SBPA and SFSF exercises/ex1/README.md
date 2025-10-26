@@ -23,11 +23,18 @@ description
 
 ### 2)	Add event trigger as a starting point of your process
 
+1. In the process builder canvas click on Add a Trigger.
 
+2. Select Wait for an Event.
+
+3. Type New Hire Data Review Initiated in the search field of the library. Once listed, you can click on Add.
+
+4. In the trigger editor add you session ID and user ID the to the suggested trigger’s name and then click on Create. 
 
 >  Note: Now, you have your trigger created. 
 
-### 3)	View the Equipment Determination decision for the newly hired employee
+### 3)	Map process inputs
+
 
 
 ### 4)	View the Training Determination decision for the newly hired employee
