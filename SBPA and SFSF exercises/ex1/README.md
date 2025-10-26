@@ -44,11 +44,11 @@ In this exercise, you will be setting up a SAP Build Process Automation (SBPA) p
 
 ### 3)	Map process inputs
 
-1. Map the Process Inputs in Inputs tab for the step “Get entity from EmpEmployment by key” for files personIdExternal and userId and **Save**.
+1. Map the Process Inputs in Inputs tab for the step **“Get entity from EmpEmployment by key”** for files personIdExternal and userId and **Save**.
 
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/SBPAStep7.png)
 
-3. In General tab check if the destination is set, if not then Add SFSFDestination and **Save**.
+3. In General tab check if the destination is set, if not then Add **SFSFDestination** and **Save**.
 
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/SBPAStep8.png)
 
@@ -64,7 +64,7 @@ In this exercise, you will be setting up a SAP Build Process Automation (SBPA) p
 
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/SBPAStep11.png)
 
-7. For the Create Purchase Order for Laptop, check the destination is set as for S4HANADestination.
+7. For the Create Purchase Order for Laptop, check the destination is set as for **S4HANADestination**.
 
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/SBPAStep12.png)
 
