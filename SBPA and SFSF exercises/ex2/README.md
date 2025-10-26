@@ -38,6 +38,17 @@ Then we click **Continue** to continue the wizard.
 
 Then we click **Continue** to continue the wizard.
 
+5.	In the **Job Information** section, enter the following details:
+   
+**[!IMPORTANT]** You have the option to choose any available position, yet it's important to note that the SAP Build Process Automation (SBPA) employs equipment determination decisions specific to roles such as Marketing, Consulting, and Default. Your selected role will dictate the equipment and training list displayed in the approval form.
+   - **Select Position**: From drop down list - Select Director of Marketing (DIR_MKT_TECHED) (It usually automatically fills all the other fields)
+   - **Select Business Unit**: Corporate Healthcare (ACE_HC)
+   - **Select Job Classification**: IT Manager (IT-MGR)
+
+6.	Scroll down, in **Employment Details**, set the **First Date Worked** as any date in the future.
+Then we click **Continue** to continue the wizard.
+
+
 ## Summary
 
 You've now ...
