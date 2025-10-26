@@ -13,8 +13,8 @@ Run through the following steps:
 
 3.	In the Identity section, enter the following details:
 **[!IMPORTANT] ** Replace XXX with the participant number that is assigned to you.
-3.1 Hire Date: Keep the default current date
-3.2 Company: From the drop down list - Ace India (ACE_IND) 
+   3.1 Hire Date: Keep the default current date
+   3.2 Company: From the drop down list - Ace India (ACE_IND) 
 Event Reason: From the drop down list - New Hire (HIRNEW)
 First Name: Any name of your choice
 Last Name: Any name of your choice
