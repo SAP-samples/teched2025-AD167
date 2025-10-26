@@ -21,6 +21,8 @@ Run through the following steps:
    - **3.7** Country Of Birth: Select any country, e.g.: India
    - **3.8** Person Id: IN264-XXX
    - **3.9** User Name: IN264-XXX
+
+Then we click **Continue** to continue the wizard.
      
 4.	In the Personal Information section, enter the following details:
    - **Gender**: As required
@@ -28,8 +30,13 @@ Run through the following steps:
       - **Email Type**: Business
       - **Email Address**: Enter any Email ID that you can access to see the generated email as part of the employee onboarding subprocess in SAP SuccessFactors
       - **Is Primary**: From drop down list – Yes
+        
+   - Add the following Phone Information:
+      - **Phone Type**: Business
+      - **Phone Address**: Enter a phone number
+      - **Is Primary**: From drop down list - Yes
 
-
+Then we click **Continue** to continue the wizard.
 
 ## Summary
 
