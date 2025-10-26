@@ -50,7 +50,7 @@ In this exercise, you will be setting up a SAP Build Process Automation (SBPA) p
 
 1. Map the Process Inputs in Inputs tab for the step “Get entity from EmpEmployment by key” for files personIdExternal and userId and **Save**.
 
-![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/Picture%201.png)
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/SBPAStep7.png)
 
 3. In General tab check if the destination is set, if not then Add SFSFDestination and **Save**.
 
