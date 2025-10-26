@@ -12,7 +12,7 @@ Run through the following steps:
    ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/sfstep2.png)
 
 3.	In the Identity section, enter the following details:
-**[!IMPORTANT] ** Replace XXX with the participant number that is assigned to you.
+***IMPORTANT Replace XXX with the participant number that is assigned to you.***
    - **3.1** Hire Date: Keep the default current date
    - **3.2** Company: From the drop down list - Ace India (ACE_IND) 
    - **3.3** Event Reason: From the drop down list - New Hire (HIRNEW)
@@ -40,7 +40,7 @@ Then we click **Continue** to continue the wizard.
 
 5.	In the **Job Information** section, enter the following details:
    
-**[!IMPORTANT]** You have the option to choose any available position, yet it's important to note that the SAP Build Process Automation (SBPA) employs equipment determination decisions specific to roles such as Marketing, Consulting, and Default. Your selected role will dictate the equipment and training list displayed in the approval form.
+***IMPORTANT You have the option to choose any available position, yet it's important to note that the SAP Build Process Automation (SBPA) employs equipment determination decisions specific to roles such as Marketing, Consulting, and Default. Your selected role will dictate the equipment and training list displayed in the approval form.***
    - **Select Position**: From drop down list - Select Director of Marketing (DIR_MKT_TECHED) (It usually automatically fills all the other fields)
    - **Select Business Unit**: Corporate Healthcare (ACE_HC)
    - **Select Job Classification**: IT Manager (IT-MGR)
