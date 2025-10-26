@@ -11,10 +11,18 @@ Run through the following steps:
 2.	Search for Add New Employee and select Add New Employee list entry and this would bring us to the Add New Employee Wizard.
    ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/sfstep2.png)
 
-2.	Insert this line of code.
-```abap
-response->set_text( |Hello ABAP World! | ). 
-```
+3.	In the Identity section, enter the following details:
+**[!IMPORTANT] ** Replace XXX with the participant number that is assigned to you.
+i.	Hire Date: Keep the default current date
+ii.	Company: From the drop down list - Ace India (ACE_IND) 
+iii.	Event Reason: From the drop down list - New Hire (HIRNEW)
+iv.	First Name: Any name of your choice
+v.	Last Name: Any name of your choice
+vi.	Date Of Birth: Select any date, e.g.: Oct 18, 2000
+vii.	Country Of Birth: Select any country, e.g.: India
+viii.	Person Id: IN264-XXX
+ix.	User Name: IN264-XXX
+
 
 
 
