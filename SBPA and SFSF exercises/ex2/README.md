@@ -9,7 +9,7 @@ Run through the following steps:
 
 
 2.	Search for Add New Employee and select Add New Employee list entry and this would bring us to the Add New Employee Wizard.
-<br>![](/exercises/ex1/images/sfstep2.png)
+   ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/sfstep2.png)
 
 2.	Insert this line of code.
 ```abap
