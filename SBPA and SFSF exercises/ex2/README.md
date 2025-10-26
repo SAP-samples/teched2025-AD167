@@ -48,9 +48,14 @@ Then we click **Continue** to continue the wizard.
 6.	Scroll down, in **Employment Details**, set the **First Date Worked** as any date in the future.
 Then we click **Continue** to continue the wizard.
 
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/sfstep6.png)
+
+7.	As a final step to create a new employee, click on the **Submit** button.
+
+8. When the employee has been added successfully the following screen appears.
 
 ## Summary
 
-You've now ...
+You've now created a new hire record in SuccessFactors. The respective event will start your already process in SAP Build Process Automation. 
 
 Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
