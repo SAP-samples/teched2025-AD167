@@ -28,15 +28,15 @@ In this exercise, you will be setting up a SAP Build Process Automation (SBPA) p
 
 ### 2)	Add event trigger as a starting point of your process
 
-1. In the process builder canvas click on Add a Trigger.
+1. In the process builder canvas click on **Add a Trigger**.
 
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/addtrigger.png)
 
-3. Select Wait for an Event.
+3. Select **Wait for an Event**.
 
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/waitforevent.png)
 
-4. Type New Hire Data Review Initiated in the search field of the library. Once listed, you can click on **Add**.
+4. Type **New Hire Data Review Initiated** in the search field of the library. Once listed, you can click on **Add**.
 
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/Selectevent.png)
 
