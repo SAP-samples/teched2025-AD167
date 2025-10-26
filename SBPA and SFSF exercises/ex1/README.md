@@ -54,11 +54,11 @@ In this exercise, you will be setting up a SAP Build Process Automation (SBPA) p
 
 3. In General tab check if the destination is set, if not then Add SFSFDestination and **Save**.
 
-![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/waitforevent.png)
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/SBPAStep8.png)
 
 4. Enter the mapping for the next action field and **Save**. Add emailNav,phoneNav,personalInfoNav,socialAccountNav in $expand. Check the destination and use the previous destination if it does not exist and **Save**.
 
-![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/waitforevent.png)
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/SBPAStep9.png)
 
 6. For Equipment Determination Decision, map the Job Title from the output of the step “Get entity from EmpEmployment by key” and **Save**. Do the same for training determination.
 
