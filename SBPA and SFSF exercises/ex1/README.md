@@ -24,7 +24,7 @@ In this exercise, you will be setting up a SAP Build Process Automation (SBPA) p
 
 2.	Once copied, open the project and find the New Employee Equipment and Training Approval Process in the Artifacts list. Open the process. 
 
-![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/Choose%20event%20collection.png)
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/openprocess.png)
 
 ### 2)	Add event trigger as a starting point of your process
 
