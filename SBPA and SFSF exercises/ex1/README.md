@@ -50,25 +50,37 @@ In this exercise, you will be setting up a SAP Build Process Automation (SBPA) p
 
 1. Map the Process Inputs in Inputs tab for the step “Get entity from EmpEmployment by key” for files personIdExternal and userId and **Save**.
 
-2. In General tab check if the destination is set, if not then Add SFSFDestination and **Save**.
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/Picture%201.png)
 
-3. Enter the mapping for the next action field and **Save**. Add emailNav,phoneNav,personalInfoNav,socialAccountNav in $expand. Check the destination and use the previous destination if it does not exist and **Save**.
+3. In General tab check if the destination is set, if not then Add SFSFDestination and **Save**.
 
-4. For Equipment Determination Decision, map the Job Title from the output of the step “Get entity from EmpEmployment by key” and **Save**. Do the same for training determination.
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/waitforevent.png)
 
-5. For “Equipment and Training Request Approval Form” , add the personIdExternal from Process Inputs to the Subject and also update the users to receive the task in my inbox. Click Save.
+4. Enter the mapping for the next action field and **Save**. Add emailNav,phoneNav,personalInfoNav,socialAccountNav in $expand. Check the destination and use the previous destination if it does not exist and **Save**.
 
-6. For the Create Purchase Order for Laptop, check the destination is set as for S4HANADestination.
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/waitforevent.png)
 
-7. For approved and rejected email notifications, please enter your email id to receive the email.
+6. For Equipment Determination Decision, map the Job Title from the output of the step “Get entity from EmpEmployment by key” and **Save**. Do the same for training determination.
 
-### 4)	View the Training Determination decision for the newly hired employee
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/waitforevent.png)
 
+8. For “Equipment and Training Request Approval Form” , add the personIdExternal from Process Inputs to the Subject and also update the users to receive the task in my inbox. Click Save.
 
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/waitforevent.png)
+
+9. For the Create Purchase Order for Laptop, check the destination is set as for S4HANADestination.
+
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/waitforevent.png)
+
+11. For approved and rejected email notifications, please enter your email id to receive the email.
+
+>  Note: Now, your project inputs are mapped. 
 
 ### 7)	Release and Deploy
 
 Check the final project looks like following and has no errors. Release and Deploy the project to an environment name AD167_SFSF. Note that the deployment is successful.
+
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/waitforevent.png)
 
 ### 8)	Get the Process Instance ID
 
