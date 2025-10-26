@@ -21,28 +21,15 @@ Run through the following steps:
    - **3.7** Country Of Birth: Select any country, e.g.: India
    - **3.8** Person Id: IN264-XXX
    - **3.9** User Name: IN264-XXX
+     
+4.	In the Personal Information section, enter the following details:
+   - **Gender**: As required
+   - Add the following Email Information:
+      - **Email Type**: Business
+      - **Email Address**: Enter any Email ID that you can access to see the generated email as part of the employee onboarding subprocess in SAP SuccessFactors
+      - **Is Primary**: From drop down list – Yes
 
 
-
-
-## Exercise 2.2 Sub Exercise 2 Description
-
-After completing these steps you will have...
-
-1.	Enter this code.
-```abap
-DATA(lt_params) = request->get_form_fields(  ).
-READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
-  IF sy-subrc = 0.
-    response->set_status( i_code = 200
-                     i_reason = 'Everything is fine').
-    RETURN.
-  ENDIF.
-
-```
-
-2.	Click here.
-<br>![](/exercises/ex2/images/02_02_0010.png)
 
 ## Summary
 
