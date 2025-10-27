@@ -250,7 +250,7 @@ You should now have a table that looks like below with 4 columns:
   - Under **Subject**, enter: **Approve billing block removal:** and select **SalesOrder** from the **Process Inputs**
   - Under **Recipients**, type in your own user that is used for initial login to the systems (ex.AD167-XXX@education.cloud.sap) by relacing the XXX with your ID
 
-  ![02](./images//041n.png)
+  ![02](./images//ApprovalFormSalesOderSubject.png)
 
 12. Click on the Approval Form step and go to the **Inputs** section and map the inputs with the Process Content:
 
@@ -261,10 +261,10 @@ You should now have a table that looks like below with 4 columns:
   - **Sold-To-Party** to Process inputs > SalesOrderInfo > SoldToParty
   - Choose **Save**
 
-  ![02](./images/042nc.png)
+  ![02](./images/ApprovalFormSalesOrderInput.png)
 
 
-## Exercise 2.4 - Add Action to Read Sales Order Header <a name="actionReadSalesOrderHeader"></a>
+## Exercise 2.6 - Add Action to Read Sales Order Header <a name="actionReadSalesOrderHeader"></a>
 
 Navigate back to the **Billing Block Removal Process**, select the + sign to create conditional flows as to what happens when an approval form is **approved** or **rejected**.
 
