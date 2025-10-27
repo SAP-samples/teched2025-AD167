@@ -55,8 +55,6 @@ Then we click **Continue** to continue the wizard.
 
 > Rest of the fields will be automatically populated, please don’t change any of them.
 
-![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/sfstep2.png)
-
 10. Scroll down and press “**Continue**”
 
 11. Please, don’t change/add anything on the next scree, but directly scroll down and press “**Submit**”
