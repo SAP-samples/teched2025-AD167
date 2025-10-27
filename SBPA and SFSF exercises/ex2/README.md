@@ -8,51 +8,61 @@ Run through the following steps:
 1.	Logon to the [SAP SuccessFactors](https://hcm-us10-sales.hr.cloud.sap/login?company=SFEDU033158) application using the user ID and password provided to you by the instructors. Example user id is AD167-XXX@education.cloud.sap, where XXX is your user ID.
 
 
-2.	Search for Add New Employee and select Add New Employee list entry and this would bring us to the Add New Employee Wizard.
+2. Search for Add New Hire to Onboarding in the main search bar. Select the option, this would bring you to the Add New Employee Wizard.
    ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/sfstep2.png)
 
-3.	In the Identity section, enter the following details:
+3.	Add New Hire to Onboarding screen is opened. Populate the respective fields 
 ***IMPORTANT Replace XXX with the participant number that is assigned to you.***
-   - **3.1** Hire Date: Keep the default current date
-   - **3.2** Company: From the drop down list - Ace India (ACE_IND) 
-   - **3.3** Event Reason: From the drop down list - New Hire (HIRNEW)
-   - **3.4** First Name: Any name of your choice
-   - **3.5** Last Name: Any name of your choice
-   - **3.7** Country Of Birth: Select any country, e.g.: India
-   - **3.8** Person Id: IN264-XXX
-   - **3.9** User Name: IN264-XXX
+   - **3.1** First Name – type AD167-XXX-2025, replace XXX with your user ID (e.g. 001, 002, etc. )
+   - **3.2** Last Name – type TechEd2025
+   - **3.3** Email ID – type AD167-XXX-2025@sap.com, replace XXX with your user ID (e.g. 001, 002, etc. )
+   - **3.4** Hire Date – select today’s date. 
+   - **3.5** Company – select Ace India (ACE_IND)
+   - **3.7** Hiring Manager – select Rebecca Lee, Account Manager. 
+   - **3.8** Event Reason – select New Hire (HIRNEW)
 
-Then we click **Continue** to continue the wizard.
+Once completed, click **Provide additional details** to continue the wizard.
+
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/sfstep2.png)
      
-4.	In the Personal Information section, enter the following details:
-   - **Gender**: As required
-   - Add the following Email Information:
-      - **Email Type**: Business
-      - **Email Address**: Enter any Email ID that you can access to see the generated email as part of the employee onboarding subprocess in SAP SuccessFactors
-      - **Is Primary**: From drop down list – Yes
-        
-   - Add the following Phone Information:
-      - **Phone Type**: Business
-      - **Phone Address**: Enter a phone number
-      - **Is Primary**: From drop down list - Yes
+4. On the next screen scroll down to Employee Information section. Person ID is automatically populated. Note it down and replace the Person ID with AD167-XXX-2025, where XXX is your user ID. This will be your display name. 
 
 Then we click **Continue** to continue the wizard.
 
-5.	In the **Job Information** section, enter the following details:
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/sfstep2.png)
+
+6. On the next screen find **Email information** section and set “**Is Primary**” to “**Yes**”
+7. Add phone number – type **Cell**, number **336792939804**, and set “**Is Primary**” to “**Yes**”
+
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/sfstep2.png)
+
+8. Scroll down to Home Address and select “**Home**” in the “Adress Type”. 
    
-***IMPORTANT You have the option to choose any available position, yet it's important to note that the SAP Build Process Automation (SBPA) employs equipment determination decisions specific to roles such as Marketing, Consulting, and Default. Your selected role will dictate the equipment and training list displayed in the approval form.***
-   - **Select Position**: From drop down list - Select Director of Marketing (DIR_MKT_TECHED) (It usually automatically fills all the other fields)
-   - **Select Business Unit**: Corporate Healthcare (ACE_HC)
-   - **Select Job Classification**: IT Manager (IT-MGR)
-
-6.	Scroll down, in **Employment Details**, set the **First Date Worked** as any date in the future.
 Then we click **Continue** to continue the wizard.
 
-![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/sfstep6.png)
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/sfstep2.png)
 
-7.	As a final step to create a new employee, click on the **Submit** button.
+9. Go to the Organizational Information section and select the following
+   - **9.1** Company – Ace India (ACE_IND)
+   - **9.2** Business Unit - Corporate Healthcare (ACE_HC)
+   - **9.3** Division - Healthcare (HC)
+   - **9.4** Department  - Clinical (CLNC)
 
-8. When the employee has been added successfully the following screen appears.
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/sfstep2.png)
+  
+10. Go to Job Information section and select the following:  
+   - **10.1** Job Classification - IT Manager (IT-MGR)
+
+> Rest of the fields will be automatically populated, please don’t change any of them.
+
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/sfstep2.png)
+
+11. Scroll down and press “**Continue**”
+
+12. Please, don’t change/add anything on the next scree, but directly scroll down and press “**Submit**”
+
+> Note – You will receive a successful message. Press Close
+
 
 ## Summary
 
