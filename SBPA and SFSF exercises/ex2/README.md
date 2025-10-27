@@ -32,7 +32,7 @@ Once completed, click **Provide additional details** to continue the wizard.
 Then we click **Continue** to continue the wizard.
 
 5. On the next screen find **Email information** section and set “**Is Primary**” to “**Yes**”
-6. Add phone number – type **Cell**, number **336792939804**, and set “**Is Primary**” to “**Yes**”
+6. Add phone number – select type **Cell**, type number **336792939804**, and set “**Is Primary**” to “**Yes**”
 
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex2/images/EmailAndPhoneDetails.png)
 
