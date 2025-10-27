@@ -161,28 +161,22 @@ Next, you will add an Action to the Process that will read the sales order items
 
 3. The **Action** is now added. When you click on the **Action** step, on the side panel, you can see the outputs coming from the Action in the outputs tab.
 
-
-
 Note that the Action step shows an Error icon on its left because we must now configure the Action accordingly using the side-panel function.
 
    ![02](./images//ReadallitemsofSOoutputsreview.png)
-
-
-
 
 4. In the **General** section of the Action:
 
   - Change the **Step Name** to Reads Sales Order Items
   - Enter the **Destination variable**: S4HANADestination
 
-
-  ![02](./images//018n.png)
+  ![02](./images//SetReadActionGeneralValues.png)
 
 5. In the **Inputs** section of the Action, select the **SalesOrder** Process Input.
 
 6. Choose **Save**.
 
-  ![02](./images/019n.png)
+  ![02](./images/ReadActionInput.png)
 
 
 ## Exercise 2.3 - Add Approver Form with Sales Order Items Table
