@@ -44,7 +44,7 @@ In this exercise, you will be setting up a SAP Build Process Automation (SBPA) p
 
 ### 3)	Dedine Condition
 
-1. Click on the Condition step. Right side menu should be opened.Click on the three dots button in the Branch Condiotion. Condition Editor is opened
+1. Click on the Condition step, a right side menu should be opened. Click on the three dots button in the Branch Condition. Condition Editor is opened.
 
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/SFSFCondition.png)
 
