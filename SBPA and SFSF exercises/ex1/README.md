@@ -42,7 +42,19 @@ In this exercise, you will be setting up a SAP Build Process Automation (SBPA) p
 
 >  Note: Now, you have your trigger created. 
 
-### 3)	Map process inputs
+### 3)	Dedine Condition
+
+1. Click on the Condition step. Right side menu should be opened.Click on the three dots button in the Branch Condiotion. Condition Editor is opened
+
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/SBPAStep7.png)
+
+2. Select in the left field "**personIdExternal**" from the process inputs, **"contains"** in the middle field and AD167-XXX in the right field by replacing the XXX with your user ID (e.g AD167-001. AD167-002), etc. Click **"Apply"** 
+
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/SBPAStep7.png)
+
+>  Note: Now, you have configured your condition.
+
+### 4) Map process inputs
 
 1. Map the Process Inputs in Inputs tab for the step **“Get entity from EmpEmployment by key”** for files personIdExternal and userId and **Save**.
 
