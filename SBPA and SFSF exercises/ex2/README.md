@@ -7,9 +7,9 @@ In this exercise, you will test the integration scenario by adding a new employe
 Run through the following steps:
 1.	Logon to the [SAP SuccessFactors](https://hcm-us10-sales.hr.cloud.sap/login?company=SFEDU033158) application using the user ID and password provided to you by the instructors. Example user id is AD167-XXX@education.cloud.sap, where XXX is your user ID.
 
-
 2. Search for Add New Hire to Onboarding in the main search bar. Select the option, this would bring you to the Add New Employee Wizard.
-   ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/sfstep2.png)
+
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex2/images/SearchAddNewHire.png)
 
 3.	Add New Hire to Onboarding screen is opened. Populate the respective fields 
 ***IMPORTANT Replace XXX with the participant number that is assigned to you.***
@@ -21,11 +21,13 @@ Run through the following steps:
    - **3.7** Hiring Manager – select Rebecca Lee, Account Manager. 
    - **3.8** Event Reason – select New Hire (HIRNEW)
 
-Once completed, click **Provide additional details** to continue the wizard.
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex2/images/AddNewHireOnboardingScreen.png)
 
-![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/sfstep2.png)
+Once completed, click **Provide additional details** to continue the wizard.
      
-4. On the next screen scroll down to Employee Information section. Person ID is automatically populated. Note it down and replace the Person ID with AD167-XXX-2025, where XXX is your user ID. This will be your display name. 
+4. On the next screen scroll down to Employee Information section. Person ID is automatically populated. **Note it down** and replace the Person ID with AD167-XXX-2025, where XXX is your user ID. This will be your display name.
+
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex2/images/EmployeeInformation.png)
 
 Then we click **Continue** to continue the wizard.
 
@@ -34,13 +36,13 @@ Then we click **Continue** to continue the wizard.
 6. On the next screen find **Email information** section and set “**Is Primary**” to “**Yes**”
 7. Add phone number – type **Cell**, number **336792939804**, and set “**Is Primary**” to “**Yes**”
 
-![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/sfstep2.png)
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex2/images/EmailAndPhoneDetails.png)
 
-8. Scroll down to Home Address and select “**Home**” in the “Adress Type”. 
+8. Scroll down to Home Address and select “**Home**” in the “Adress Type”.
+
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex2/images/SetHomeAddress.png)
    
 Then we click **Continue** to continue the wizard.
-
-![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/sfstep2.png)
 
 9. Go to the Organizational Information section and select the following
    - **9.1** Company – Ace India (ACE_IND)
@@ -48,7 +50,7 @@ Then we click **Continue** to continue the wizard.
    - **9.3** Division - Healthcare (HC)
    - **9.4** Department  - Clinical (CLNC)
 
-![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/sfstep2.png)
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex2/images/OrganizationalInformtion.png)
   
 10. Go to Job Information section and select the following:  
    - **10.1** Job Classification - IT Manager (IT-MGR)
@@ -61,8 +63,11 @@ Then we click **Continue** to continue the wizard.
 
 12. Please, don’t change/add anything on the next scree, but directly scroll down and press “**Submit**”
 
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex2/images/SubmitNewHire.png)
+
 > Note – You will receive a successful message. Press Close
 
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex2/images/SuccessInitiation.png)
 
 ## Summary
 
