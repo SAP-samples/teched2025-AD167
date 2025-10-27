@@ -127,6 +127,7 @@ The **Event Trigger** is now created. Please make sure to save your work.
 ![02](./images/008n.png)
  ![02](./images/008nc.png)
 
+## Exercise 2.3 - Add Condition based on Sales Order Number"></a>
 
 ## Exercise 2.2 - Add Action to Read Sales Order Items <a name="actionReadSalesOrderItems"></a>
 
