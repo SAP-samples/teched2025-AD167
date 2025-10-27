@@ -133,7 +133,7 @@ The **Event Trigger** is now created. Please make sure to save your work.
 
 2.	Click on the Condition tile and go to **Condition Editor** 
 
-![alt text]()
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex2/images/OpenConditionEditor.png)
 
 3.	Type Sales Order in the input field and add the respective input. Set is equal in the middle field. Set you Sales Order Number that you have created in Ex1 in the right field, and click **Apply**.
 
