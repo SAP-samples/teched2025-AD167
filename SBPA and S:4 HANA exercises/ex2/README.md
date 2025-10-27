@@ -165,7 +165,7 @@ Next, you will add an Action to the Process that will read the sales order items
 
 Note that the Action step shows an Error icon on its left because we must now configure the Action accordingly using the side-panel function.
 
-  ![02](./images//017nc.png)
+   ![02](./images//ReadallitemsofSOoutputsreview.png)
 
 
 
