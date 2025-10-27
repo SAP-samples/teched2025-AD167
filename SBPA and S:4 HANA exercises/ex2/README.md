@@ -116,8 +116,6 @@ Afterwards, click on Create.
 ![02](./images//089.png)
 
 
-
-
 The **Event Trigger** is now created. Please make sure to save your work.
 
   ![02](./images/008.png)
@@ -127,7 +125,21 @@ The **Event Trigger** is now created. Please make sure to save your work.
 ![02](./images/008n.png)
  ![02](./images/008nc.png)
 
-## Exercise 2.3 - Add Condition based on Sales Order Number"></a>
+## Exercise 2.3 - Add Condition based on Sales Order Number
+
+1. Click on the + sign and select **Controls and Events** -> **Condition**
+
+![alt text]()
+
+2.	Click on the Condition tile and go to **Condition Editor** 
+
+![alt text]()
+
+3.	Type Sales Order in the input field and add the respective input. Set is equal in the middle field. Set you Sales Order Number that you have created in Ex1 in the right field, and click **Apply**.
+
+![alt text]()
+
+> Now you have your condition created. In that way your process will be started only when event that refers to your Sales Order is consumed by SBPA 
 
 ## Exercise 2.2 - Add Action to Read Sales Order Items <a name="actionReadSalesOrderItems"></a>
 
