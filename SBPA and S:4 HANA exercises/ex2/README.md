@@ -151,12 +151,9 @@ Next, you will add an Action to the Process that will read the sales order items
 
 > With Actions, you can embed external skills and capabilities into your business process projects by uploading an open API specification file in JSON format. Action projects allow external systems and solutions to communicate with SAP Build Process Automation.
 
-1. In the Process Builder, select the **+** underneath the Trigger created, then choose **Action > Browse library**.
+1. In the Process Builder, select the **+** underneath the Condition created, then choose **Action > Browse library**.
 
-  ![02](./images//015.png)
-
-  ![02](./images//015n.png)
-
+  ![02](./images//Addreadsalesorderaction.png)
 
 2. In the **Browse library** pop-up, select the **Reads all items of a sales order** Action and choose **Add**.
 
