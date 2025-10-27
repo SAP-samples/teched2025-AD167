@@ -31,20 +31,18 @@ Once completed, click **Provide additional details** to continue the wizard.
 
 Then we click **Continue** to continue the wizard.
 
-![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/sfstep2.png)
-
-6. On the next screen find **Email information** section and set “**Is Primary**” to “**Yes**”
-7. Add phone number – type **Cell**, number **336792939804**, and set “**Is Primary**” to “**Yes**”
+5. On the next screen find **Email information** section and set “**Is Primary**” to “**Yes**”
+6. Add phone number – type **Cell**, number **336792939804**, and set “**Is Primary**” to “**Yes**”
 
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex2/images/EmailAndPhoneDetails.png)
 
-8. Scroll down to Home Address and select “**Home**” in the “Adress Type”.
+7. Scroll down to Home Address and select “**Home**” in the “Adress Type”.
 
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex2/images/SetHomeAddress.png)
    
 Then we click **Continue** to continue the wizard.
 
-9. Go to the Organizational Information section and select the following
+8. Go to the Organizational Information section and select the following
    - **9.1** Company – Ace India (ACE_IND)
    - **9.2** Business Unit - Corporate Healthcare (ACE_HC)
    - **9.3** Division - Healthcare (HC)
@@ -52,16 +50,16 @@ Then we click **Continue** to continue the wizard.
 
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex2/images/OrganizationalInformtion.png)
   
-10. Go to Job Information section and select the following:  
+9. Go to Job Information section and select the following:  
    - **10.1** Job Classification - IT Manager (IT-MGR)
 
 > Rest of the fields will be automatically populated, please don’t change any of them.
 
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/sfstep2.png)
 
-11. Scroll down and press “**Continue**”
+10. Scroll down and press “**Continue**”
 
-12. Please, don’t change/add anything on the next scree, but directly scroll down and press “**Submit**”
+11. Please, don’t change/add anything on the next scree, but directly scroll down and press “**Submit**”
 
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex2/images/SubmitNewHire.png)
 
