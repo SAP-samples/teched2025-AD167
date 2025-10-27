@@ -179,17 +179,17 @@ Note that the Action step shows an Error icon on its left because we must now co
   ![02](./images/ReadActionInput.png)
 
 
-## Exercise 2.3 - Add Approver Form with Sales Order Items Table
+## Exercise 2.5 - Add Approver Form with Sales Order Items Table
 
 You will now add the Approval Form with Sales Order Items Table to the Process.
 
 1. In the Process Builder, select the **+** under the Action and choose **Approvals > Blank Approval**.
 
-  ![02](./images//035n.png)
+  ![02](./images//AddApprovalAfterReadSalesOrder.png)
 
 2. Choose **Save** and then click on the **Open Editor**.
 
-  ![02](./images//036n.png)
+  ![02](./images//OpenApprovalEditor.png)
 
   The Form Builder opens. You will now create an approval form with a Sales Order Items Table.
 
