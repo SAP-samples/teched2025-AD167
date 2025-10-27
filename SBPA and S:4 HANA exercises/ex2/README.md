@@ -410,7 +410,7 @@ Once your project is free of errors, you may release and deploy it.
 
   ![02](./images//072n.png)
 
-4. Select the SalesOrderDestination **Destination** which you have already created previously and choose **Deploy**.
+4. Select the **SalesOrderDestination** **Destination** which you have already created previously and choose **Deploy**.
 
   Great work! Your project is now deployed.
 
