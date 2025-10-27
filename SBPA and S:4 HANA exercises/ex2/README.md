@@ -125,7 +125,7 @@ The **Event Trigger** is now created. Please make sure to save your work.
 ![02](./images/008n.png)
  ![02](./images/008nc.png)
 
-## Exercise 2.3 - Add Condition based on Sales Order Number
+## Exercise 2.2 - Add Condition based on Sales Order Number
 
 1. Click on the + sign and select **Controls and Events** -> **Condition**
 
@@ -145,7 +145,7 @@ The **Event Trigger** is now created. Please make sure to save your work.
 
 > Now you have your condition created. In that way your process will be started only when event that refers to your Sales Order is consumed by SBPA 
 
-## Exercise 2.4 - Add Action to Read Sales Order Items <a name="actionReadSalesOrderItems"></a>
+## Exercise 2.3 - Add Action to Read Sales Order Items <a name="actionReadSalesOrderItems"></a>
 
 Next, you will add an Action to the Process that will read the sales order items.
 
@@ -179,7 +179,7 @@ Note that the Action step shows an Error icon on its left because we must now co
   ![02](./images/ReadActionInput.png)
 
 
-## Exercise 2.5 - Add Approver Form with Sales Order Items Table
+## Exercise 2.4 - Add Approver Form with Sales Order Items Table
 
 You will now add the Approval Form with Sales Order Items Table to the Process.
 
@@ -264,7 +264,7 @@ You should now have a table that looks like below with 4 columns:
   ![02](./images/ApprovalFormSalesOrderInput.png)
 
 
-## Exercise 2.6 - Add Action to Read Sales Order Header <a name="actionReadSalesOrderHeader"></a>
+## Exercise 2.5 - Add Action to Read Sales Order Header <a name="actionReadSalesOrderHeader"></a>
 
 Navigate back to the **Billing Block Removal Process**, select the + sign to create conditional flows as to what happens when an approval form is **approved** or **rejected**.
 
@@ -282,7 +282,7 @@ Navigate back to the **Billing Block Removal Process**, select the + sign to cre
 3. In the **General** section of the Action:
 
   - Change the **Step Name:** Get ETAG for PATCH
-  - Select the **Destination variable:** S4HANADestination
+  - Select the **Destination variable:** SalesOrderDestination
 
 > The GET Call is necessary before the Update(PATCH) call to fetch the latest etag. The etag should be updated every time you trigger a POST request that changes data. 
 
@@ -299,7 +299,7 @@ Navigate back to the **Billing Block Removal Process**, select the + sign to cre
   ![02](./images//054n.png)
 
 
-## Exercise 2.5 - Add Action to Update Sales Order <a name="actionUpdateSalesOrder"></a>
+## Exercise 2.6 - Add Action to Update Sales Order <a name="actionUpdateSalesOrder"></a>
 
 Now, you will add an Action to the Process to update the sales order.
 
@@ -314,7 +314,7 @@ Now, you will add an Action to the Process to update the sales order.
 3. In the **General** section of the Action:
 
   - Change the **Step Name** to: Updates a sales order
-  - Select the **Destination variable:** S4HANADestination
+  - Select the **Destination variable:** SalesOrderDestination
 
   ![02](./images//057n.png)
 
@@ -329,7 +329,7 @@ Now, you will add an Action to the Process to update the sales order.
   ![02](./images//059n.png)
 
 
-## Exercise 2.6 - Add Approval and Rejection Emails <a name="approvalRejectionNotifications"></a>
+## Exercise 2.7 - Add Approval and Rejection Emails <a name="approvalRejectionNotifications"></a>
 
 You will add approval and rejection email to notify the requestors. 
 
@@ -391,7 +391,7 @@ You will add approval and rejection email to notify the requestors.
   Your Notification Emails are now added to the process.
 ![02](./images//067n.png)
 
-## Exercise 2.7 - Release and Deploy the Process <a name="releaseDeployProcess"></a>
+## Exercise 2.8 - Release and Deploy the Process <a name="releaseDeployProcess"></a>
 
 Once your project is free of errors, you may release and deploy it.
 
@@ -409,10 +409,7 @@ Once your project is free of errors, you may release and deploy it.
 
   ![02](./images//072n.png)
 
-4. Select the **Destination** which you have already created previously and choose **Deploy**.
-
-  ![02](./images//074n.png)
-
+4. Select the SalesOrderDestination **Destination** which you have already created previously and choose **Deploy**.
 
   Great work! Your project is now deployed.
 
