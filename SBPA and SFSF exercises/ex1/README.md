@@ -5,8 +5,9 @@ In this exercise, you will be setting up a SAP Build Process Automation (SBPA) p
 
 1) [Create a new project based on the given "New Hire Onboarding Experience – Template" project and save it](#1create-a-new-project-based-on-the-given-new-hire-onboarding-experience--template-project-and-save-it)<br>
 2) [Add event trigger as starting point of your process](#2Add-event-trigger-as-a-starting-point-of-your-process)<br>
-3) [Map process inputs](#3Map-process-inputs)<br>
-4) [Release and Deploy](#4Release-and-Deploye)<br>
+3) [Define Condition](#3Dedine-Condition)<br>
+4) [Map process inputs](#4Map-process-inputs)<br>
+5) [Release and Deploy](#4Release-and-Deploye)<br>
 
 ### 1)	Create a new project based on the given "New Hire Onboarding Process TEMPLATE" project and save it. 
 
@@ -42,7 +43,7 @@ In this exercise, you will be setting up a SAP Build Process Automation (SBPA) p
 
 >  Note: Now, you have your trigger created. 
 
-### 3)	Dedine Condition
+### 3)	Define Condition
 
 1. Click on the Condition step, a right side menu should be opened. Click on the three dots button in the Branch Condition. Condition Editor is opened.
 
@@ -84,7 +85,7 @@ In this exercise, you will be setting up a SAP Build Process Automation (SBPA) p
 
 >  Note: Now, your project inputs are mapped. 
 
-### 4)	Release and Deploy
+### 5)	Release and Deploy
 
 Check the final project looks like following and has no errors. Release and Deploy the project to an environment name **AD167_SFSF**. Note that the deployment is successful.
 
