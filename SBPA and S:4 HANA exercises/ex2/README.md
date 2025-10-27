@@ -135,7 +135,7 @@ The **Event Trigger** is now created. Please make sure to save your work.
 
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex2/images/OpenConditionEditor.png)
 
-3. Type Sales Order in the input field and add the respective input. Set is equal in the middle field. Set you Sales Order Number that you have created in Ex1 in the right field, and click **Apply**.
+3. Type **Sales Order** in the input field and add the respective input.
 
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex2/images/SetSalesOrder.png)
 
@@ -145,7 +145,7 @@ The **Event Trigger** is now created. Please make sure to save your work.
 
 > Now you have your condition created. In that way your process will be started only when event that refers to your Sales Order is consumed by SBPA 
 
-## Exercise 2.2 - Add Action to Read Sales Order Items <a name="actionReadSalesOrderItems"></a>
+## Exercise 2.4 - Add Action to Read Sales Order Items <a name="actionReadSalesOrderItems"></a>
 
 Next, you will add an Action to the Process that will read the sales order items.
 
