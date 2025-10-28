@@ -39,7 +39,7 @@ Whithin this hands-on session you will be able to explore two scenarios
 - [Exercise SAP Build Process Automation and SAP SuccessFactors](https://github.com/SAP-samples/teched2025-AD167/tree/main/SBPA%20and%20SFSF%20exercises)
     - [Exercise 2.1 - Create and Configure the SAP Build Process Automation Project for Equipment and Training Approval Workflow](https://github.com/SAP-samples/teched2025-AD167/tree/main/SBPA%20and%20SFSF%20exercises/ex1)
     - [Exercise 2.2 - Add a New Employee in SAP SuccessFactors](https://github.com/SAP-samples/teched2025-AD167/tree/main/SBPA%20and%20SFSF%20exercises/ex2)
-    - [Exercise 2.3 - Complete the process in SAP Build Process Automati](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex3/README.mdn)
+    - [Exercise 2.3 - Complete the process in SAP Build Process Automation](https://github.com/SAP-samples/teched2025-AD167/tree/main/SBPA%20and%20SFSF%20exercises/ex3)
 
   
 **OR** Link to the Tutorial Navigator for example...
