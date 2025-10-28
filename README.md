@@ -33,12 +33,13 @@ Whithin this hands-on session you will be able to explore two scenarios
 2. Assign dedicated traning and equipment to a new hire created from SAP SuccessFactors.
    
 - [Exercise SAP Build Process Automation and S/4 HANA](https://github.com/SAP-samples/teched2025-AD167/tree/main/SBPA%20and%20S%3A4%20HANA%20exercises)
-    - [Exercise 1 - Create Sales Order](https://github.com/SAP-samples/teched2025-AD167/tree/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex1)
-    - [Exercise 2 - Create Process](https://github.com/SAP-samples/teched2025-AD167/tree/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex2)
-    - [Exercise 2 - Run Process](https://github.com/SAP-samples/teched2025-AD167/tree/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex3)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
+    - [Exercise 1.1 - Create Sales Order](https://github.com/SAP-samples/teched2025-AD167/tree/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex1)
+    - [Exercise 1.2 - Create Process](https://github.com/SAP-samples/teched2025-AD167/tree/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex2)
+    - [Exercise 1.3 - Run Process](https://github.com/SAP-samples/teched2025-AD167/tree/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex3)
+- [Exercise SAP Build Process Automation and SAP SuccessFactors](https://github.com/SAP-samples/teched2025-AD167/tree/main/SBPA%20and%20SFSF%20exercises)
+    - [Exercise 2.1 - Create and Configure the SAP Build Process Automation Project for Equipment and Training Approval Workflow](https://github.com/SAP-samples/teched2025-AD167/tree/main/SBPA%20and%20SFSF%20exercises/ex1)
+    - [Exercise 2.2 - Add a New Employee in SAP SuccessFactors](https://github.com/SAP-samples/teched2025-AD167/tree/main/SBPA%20and%20SFSF%20exercises/ex2)
+    - [Exercise 2.3 - Complete the process in SAP Build Process Automati](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex3/README.mdn)
 
   
 **OR** Link to the Tutorial Navigator for example...
