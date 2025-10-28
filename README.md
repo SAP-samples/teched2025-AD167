@@ -16,7 +16,7 @@ This session introduces attendees how to modify or extend standard business proc
 <img width="1276" height="601" alt="E2EFlow" src="https://github.com/user-attachments/assets/f3f56f8c-8cb9-4507-863a-eda53879bf1e" />
 
 You will:
-+ Learn about the new integration capabilities between SBPA and SAP Cloud Application Event Hub, which enhance event exchange across SAP cloud applications.
++ Learn about the new integration capabilities between SBPA, SAP Cloud Application Event Hub and Event Mesh, which enhance event exchange across SAP cloud applications.
 + Understand how this integration supports SAP’s event-driven architecture initiative, simplifying and optimizing business processes.
 + Explore practical scenarios and steps for implementing this integration, including setup, event project creation, and process automation.
 
@@ -28,12 +28,14 @@ There are no dedicated requirement for this exercise. But in case you want to ga
 
 ## Exercises
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
-
-- [Getting Started](exercises/ex0/)
-- [Exercise 1 - First Exercise Description](exercises/ex1/)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
+Whithin this hands-on session you will be able to explore two scenarios
+1. Removing a Billing block on a Sales Order in SAP S/4 HANA based on approval.
+2. Assign dedicated traning and equipment to a new hire created from SAP SuccessFactors.
+   
+- [Exercise SAP Build Process Automation and S/4 HANA](https://github.com/SAP-samples/teched2025-AD167/tree/main/SBPA%20and%20S%3A4%20HANA%20exercises)
+    - [Exercise 1 - Create Sales Order](https://github.com/SAP-samples/teched2025-AD167/tree/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex1)
+    - [Exercise 2 - Create Process](https://github.com/SAP-samples/teched2025-AD167/tree/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex2)
+    - [Exercise 2 - Run Process](https://github.com/SAP-samples/teched2025-AD167/tree/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex3)
 - [Exercise 2 - Second Exercise Description](exercises/ex2/)
     - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
     - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
