@@ -41,11 +41,6 @@ Whithin this hands-on session you will be able to explore two scenarios
     - [Exercise 2.2 - Add a New Employee in SAP SuccessFactors](https://github.com/SAP-samples/teched2025-AD167/tree/main/SBPA%20and%20SFSF%20exercises/ex2)
     - [Exercise 2.3 - Complete the process in SAP Build Process Automation](https://github.com/SAP-samples/teched2025-AD167/tree/main/SBPA%20and%20SFSF%20exercises/ex3)
 
-  
-**OR** Link to the Tutorial Navigator for example...
-
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
-
 **IMPORTANT**
 
 Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
