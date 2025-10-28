@@ -9,7 +9,7 @@ and innovations, reduce upgrade and maintenance costs, and improve agility in re
 
 ## Overview
 
-<img width="1276" height="601" alt="E2EFlow" src ="https://github.com/user-attachments/assets/5c27642b-8385-4143-8e31-cb393b61d097)" /> 
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex1/images/Screenshot%202025-10-28%20at%2023.06.52.png)
 
 This session introduces attendees how to modify or extend standard business processes from SAP S/4HANA and SAP SuccessFactors by leveraging SBPA extensibility capabilities and variety of event channels and business events that are supported.
 
