@@ -24,5 +24,5 @@ After completing these steps you will have a Sales Order number created without 
 
 ## Summary
 
-Now that you have created the Sales Order, Continue to [Exercise 2 - Exercise 2 Description](../ex2/README.md)
+Now that you have created the Sales Order, Continue to [Exercise 2 - Create Process](../ex2/README.md)
 
