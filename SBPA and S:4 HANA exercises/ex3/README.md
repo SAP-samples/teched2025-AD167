@@ -5,7 +5,7 @@ In this exercise, we will update the Sales Order that was created and add a bill
 ## Exercise 3.1 Change Billing Block Status in S/4HANA
 After completing these steps you will have changed the billing block status for the Sales Order.
 
-1. Login to the [S/4 HANA system instance](https://my427029.s4hana.cloud.sap/ui), by uzing your TechEd username AD167-000@education.cloud.sap, where XXX is your ID and password: Adm1nteched25. 
+1. Login to the [S/4 HANA system instance](https://my427029.s4hana.cloud.sap/ui), by using your TechEd username AD167-000@education.cloud.sap, where XXX is your ID and password: Adm1nteched25. 
 
 2. In the Search field type VA02 and select Change Sales Order operation.
 <br>![](./images/ChangeSalesOrder.png)
