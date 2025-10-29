@@ -69,4 +69,4 @@ Then we click **Continue** to continue the wizard.
 
 You've now created a new hire record in SuccessFactors. The respective event will start your already process in SAP Build Process Automation. 
 
-Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
+Continue to - [Exercise 3 - Complete the process in SAP Build Process Automation](../ex3/README.md)
