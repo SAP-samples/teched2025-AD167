@@ -18,7 +18,7 @@ In this exercise, you will need to approve/reject the equipment and training ass
 
 4. Once approved, close this tab and get back to the **Lobby** page.
 
-5. Go to the **Monitoring** section (left side menu) and click on Process and Workflow Instances.
+5. Go to the **Monitoring** section (left side menu) and click on **Process and Workflow Instances**.
 
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex3/images/Monitoring.png)
 
