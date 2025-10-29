@@ -30,33 +30,41 @@ In this exercise you will learn:
 
 ## Exercise 2.0 - Download event from from SAP Business Accelerator Hub to SAP Build
 
-1. Go to SAP Build and click on the Events on the left. Click on Create to create a New event project in SAP Build.
+1. Go to [SAP Build](https://ad167-us-wpjiqpp4.us10.build.cloud.sap/lobby) and select to sign in via **teched02.accounts.ondemand.com**.
+
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex2/images/CustomIDP.png)
+
+2. Input your TechEd username and password and click **Continue**. 
+
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex2/images/UserPassword.png)
+
+3. Go the leftside menu and click on the **Events**. Click on **Create** to create a New event project in SAP Build.
 
   ![ex2](./images/077.png)
 
-Afterwards, click on Create.
+Afterwards, click on **Create**.
   ![02](./images/078.png)
 
-2. Choose the SAP Business Accelerator Hub as the Event Source.
+4. Choose the SAP Business Accelerator Hub as the Event Source.
 
  ![02](./images/079.png)
 
-3. In the search bar, search for 'sales order' and scroll down to find **Sales Order Events, SAP S/4HANA Business Events**. Note: Make sure you are selecting event collection from **S/4 HANA Cloud Public Edition for Business events.** Click on it.
+5. In the search bar, search for 'sales order' and scroll down to find **Sales Order Events, SAP S/4HANA Business Events**. Note: Make sure you are selecting event collection from **S/4 HANA Cloud Public Edition for Business events.** Click on it.
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex2/images/Select%20cloud%20s%3A4%20hana%20system.png)
 
-4. Review the event inside and click **Add** to download the set of Events
+6. Review the event inside and click **Add** to download the set of Events
 ![02](./images/081.png)
 
-5. Afterwards, the Name and Description of the project are automatically populated. Please add the session code and your ID next to the autopopulated project name (ex. Sales Order Events_AD167_XXX). Once done, you can click on Create.
+7. Afterwards, the Name and Description of the project are automatically populated. Please add the session code and your ID next to the autopopulated project name (ex. Sales Order Events_AD167_XXX). Once done, you can click on Create.
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex2/images/Set%20ID%20in%20the%20project%20name.png)
 
-6. Release the project by clicking on **Release** button.
+8. Release the project by clicking on **Release** button.
 ![02](./images/083.png)
 
-7. Click on Release to release the project as below.
+9. Click on Release to release the project as below.
 ![02](./images/084.png)
 
-8. Once released, the project is automatically published. Click on the **Released** dropdown button to check the published version. 
+10. Once released, the project is automatically published. Click on the **Released** dropdown button to check the published version. 
 ![02](./images/087.png)
 
 ## Exercise 2.1 - Add Event Trigger to Process <a name="eventTrigger"></a>
