@@ -1,5 +1,27 @@
 # Exercise 3 - Complete the process in SAP Build Process Automation
 
-In this exercise, you will monitor the execution of the New Hire Onboarding Process. 
+In this exercise, you will need to approve/reject the equipment and training assigment to the new hire that you have created in the previouse exercise. 
 
 ## Exercise
+
+### Approve Equipment and Training Request
+
+1. Login to [SAP Build Proccess Automation](https://ad167-us-wpjiqpp4.us10.build.cloud.sap/lobby)
+
+2. On the Lobby page go to the My inbox icon and click on it in order to view the tasks that are waiting for your approval. ]
+
+![alt text]()
+
+3. In the list of tasks (the left side bar) search for the one that contains the name of your new hire that you have created in exercise 2. Click on it to visualize the approval form. 
+
+![alt text]()
+
+4. Once approved, close this tab and get back to the Lobby page.
+
+5. Go to the Monitoring section (left side menu) and click on Process and Workflow Instances
+
+6. Add **Completed** in the **Status** filter and search for your process. Click on it and review the logs for every process steps along with the event details that were exchanged between systems. 
+
+## Summary
+
+This is the end of your hands-on experience. Congratulations! Now you should be be able to better understand the extensibility power of SAP Build Process Automation and its vital role of keeping core systems clean.
