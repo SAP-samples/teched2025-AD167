@@ -23,7 +23,7 @@ Note: Now the event “Billing block status changed” will be triggered from SA
 
 ## Exercise 3.2 Monitor Process
 
-1.	Login to the [SAP Build Lobby](https://ad163-hxj0v9xc.eu10.build.cloud.sap/lobby) 
+1.	Login to the [SAP Build Lobby](https://ad163-hxj0v9xc.eu10.build.cloud.sap/lobby) by uzing your TechEd username AD167-000@education.cloud.sap, where XXX is your ID and password: Adm1nteched25. 
 
 
 <br>![](./images/001mp.png)
