@@ -99,5 +99,5 @@ Check the final project looks like following and has no errors. Release and Depl
 
 At the end of this exercise, you should have configured, released and deployed the SAP Build Process Automation (SBPA) project to manage the approval workflow for equipment and training of newly hired employee.
 
-Continue to [Exercise 2 - Excercise 2 ](../ex2/README.md)
+Continue to [Exercise 2 - Add a New Employee in SAP SuccessFactors](../ex2/README.md)
 
