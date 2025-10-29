@@ -428,4 +428,4 @@ Once your project is free of errors, you may release and deploy it.
 
 Your project is released and deployed in SAP Build and you can head to the SAP S/4HANA system to run the process.
 
-Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
+Continue to - [Exercise 3 - Run Process](../ex3/README.md)
