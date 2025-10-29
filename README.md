@@ -36,6 +36,7 @@ Whithin this hands-on session you will be able to explore two scenarios
     - [Exercise 1.1 - Create Sales Order](https://github.com/SAP-samples/teched2025-AD167/tree/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex1)
     - [Exercise 1.2 - Create Process](https://github.com/SAP-samples/teched2025-AD167/tree/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex2)
     - [Exercise 1.3 - Run Process](https://github.com/SAP-samples/teched2025-AD167/tree/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex3)
+      
 - [Exercise SAP Build Process Automation and SAP SuccessFactors](https://github.com/SAP-samples/teched2025-AD167/tree/main/SBPA%20and%20SFSF%20exercises)
     - [Exercise 2.1 - Create and Configure the SAP Build Process Automation Project for Equipment and Training Approval Workflow](https://github.com/SAP-samples/teched2025-AD167/tree/main/SBPA%20and%20SFSF%20exercises/ex1)
     - [Exercise 2.2 - Add a New Employee in SAP SuccessFactors](https://github.com/SAP-samples/teched2025-AD167/tree/main/SBPA%20and%20SFSF%20exercises/ex2)
