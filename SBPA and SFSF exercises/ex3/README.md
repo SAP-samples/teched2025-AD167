@@ -28,4 +28,4 @@ In this exercise, you will need to approve/reject the equipment and training ass
 
 ## Summary
 
-**This is the end of your hands-on experience. Congratulations!** Now you should be be able to better understand the extensibility power of SAP Build Process Automation and its vital role of keeping core systems clean.
+**This is the end of your hands-on experience. Congratulations!** Now you should be able to better understand the extensibility power of SAP Build Process Automation and its vital role of keeping core systems clean.
