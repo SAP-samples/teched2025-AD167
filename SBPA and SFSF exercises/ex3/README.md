@@ -6,19 +6,19 @@ In this exercise, you will need to approve/reject the equipment and training ass
 
 ### Approve Equipment and Training Request
 
-1. Login to [SAP Build Proccess Automation](https://ad167-us-wpjiqpp4.us10.build.cloud.sap/lobby)
+1. Login to [SAP Build Proccess Automation](https://ad167-us-wpjiqpp4.us10.build.cloud.sap/lobby).
 
-2. On the **Lobby** page go to the My inbox icon and click on it in order to view the tasks that are waiting for your approval. ]
+2. On the **Lobby** page go to the My inbox icon and click on it in order to view the tasks that are waiting for your approval. 
 
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex3/images/MyInbox.png)
 
-3. In the list of tasks (the left side bar) search for the one that contains the name of your new hire that you have created in exercise 2. Click on it to visualize the approval form. Now, go an click on **Approve** to complete the process 
+3. In the list of tasks (the left side bar) search for the one that contains the name of your new hire that you have created in exercise 2. Click on it to visualize the approval form. Now, go an click on **Approve** to complete the process. 
 
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex3/images/ApprovalFormReview.png)
 
 4. Once approved, close this tab and get back to the **Lobby** page.
 
-5. Go to the **Monitoring** section (left side menu) and click on Process and Workflow Instances
+5. Go to the **Monitoring** section (left side menu) and click on Process and Workflow Instances.
 
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex3/images/Monitoring.png)
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex3/images/ProcessWorkflowInstances.png)
