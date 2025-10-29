@@ -50,7 +50,7 @@ Afterwards, click on **Create**.
  ![02](./images/079.png)
 
 5. In the search bar, search for 'sales order' and scroll down to find **Sales Order Events, SAP S/4HANA Business Events**. Note: Make sure you are selecting event collection from **S/4 HANA Cloud Public Edition for Business events.** Click on it.
-![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex2/images/Select%20cloud%20s%3A4%20hana%20system.png)
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex2/images/Select%20cloud%20s%3A4%20hana%20system%20new.png)
 
 6. Review the event inside and click **Add** to download the set of Events
 ![02](./images/081.png)
