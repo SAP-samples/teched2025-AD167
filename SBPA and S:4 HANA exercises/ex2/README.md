@@ -121,7 +121,7 @@ Afterwards, click on **Create**.
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex2/images/Sales%20billing%20block%20status%20changed.png)
 
 
-7. Click on **Create** when given the next pop-up.
+7. Please add the session code and **your ID next to the autopopulated trigger name** (ex. SalesOrder Billing Block Status Changed_AD167_XXX, where XXX is replaced by your ID). Afterwards, click on **Create** when given the next pop-up.
 ![02](./images//089.png)
 
 
