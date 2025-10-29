@@ -66,5 +66,5 @@ Note: Now the event “Billing block status changed” will be triggered from SA
 
 ## Summary
 
-You've now tested the end to end process and also checked the status update in the SAP S/4HANA. This marks the completion of hands-on for today's session.
+You've now tested the end to end process and also checked the status update in the SAP S/4HANA. You can continue with the [SBPA and SuccessFactors exercises](https://github.com/SAP-samples/teched2025-AD167/tree/main/SBPA%20and%20SFSF%20exercises)
 
