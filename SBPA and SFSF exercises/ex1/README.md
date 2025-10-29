@@ -69,11 +69,11 @@ In this exercise, you will be setting up a SAP Build Process Automation (SBPA) p
 
 4. Enter the mapping for the next action field and **Save**. Add **emailNav,phoneNav,personalInfoNav,socialAccountNav** in **$expand** field. Check the destination and use the previous destination if it does not exist and **Save**.
 
-![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/SBPAStep9.png)
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/PersonalIdonGetEntityfromPerPorson.png)
 
 5. For Equipment Determination Decision, map the **Job Title** from the output of the step “Get entity from EmpEmployment by key” and **Save**. Do the same for **Training determination**.
 
-![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/SBPAStep10.png)
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/JobTitle.png)
 
 6. For “Equipment and Training Request Approval Form” , add the **personIdExternal** from Process Inputs to the Subject and also update the users to receive the task in my inbox by using ad167-XXX@education.cloud.sap (replace XXX with your ID). Click **Save**.
 
@@ -91,7 +91,7 @@ In this exercise, you will be setting up a SAP Build Process Automation (SBPA) p
 
 Check the final project looks like following and has no errors. Release and Deploy the project to an environment name **AD167_SFSF**. Note that the deployment is successful.
 
-![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/Final%20project.png)
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/FullProcessRelease.png)
 
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/release.png)
 
