@@ -9,12 +9,12 @@
   - [Exercise 2.0 - Download event from from SAP Business Accelerator Hub to SAP Build](#exercise-20-download-event-from-from-sap-business-accelerator-hub-to-sap-build)
   - [Exercise 2.1 - Add Event Trigger to Process ](#exercise-21---add-event-trigger-to-process-)
   - [Exercise 2.2 - Add Condition based on Sales Order Number ](#exercise-22---add-condition-based-on-sales-order-number-)
-  - [Exercise 2.3 - Add Action to Read Sales Order Items ](#exercise-22---add-action-to-read-sales-order-items-)
-  - [Exercise 2.4 - Add Approver Form with Sales Order Items Table ](#exercise-23---add-approver-form-with-sales-order-items-table-)
-  - [Exercise 2.5 - Add Action to Read Sales Order Header ](#exercise-24---add-action-to-read-sales-order-header-)
-  - [Exercise 2.6 - Add Action to Update Sales Order ](#exercise-25---add-action-to-update-sales-order-)
-  - [Exercise 2.7 - Add Approval and Rejection Emails ](#exercise-26---add-approval-and-rejection-emails-)
-  - [Exercise 2.8 - Release and Deploy the Process ](#exercise-27---release-and-deploy-the-process-)
+  - [Exercise 2.3 - Add Action to Read Sales Order Items ](#exercise-23---add-action-to-read-sales-order-items-)
+  - [Exercise 2.4 - Add Approver Form with Sales Order Items Table ](#exercise-24---add-approver-form-with-sales-order-items-table-)
+  - [Exercise 2.5 - Add Action to Read Sales Order Header ](#exercise-25---add-action-to-read-sales-order-header-)
+  - [Exercise 2.6 - Add Action to Update Sales Order ](#exercise-26---add-action-to-update-sales-order-)
+  - [Exercise 2.7 - Add Approval and Rejection Emails ](#exercise-27---add-approval-and-rejection-emails-)
+  - [Exercise 2.8 - Release and Deploy the Process ](#exercise-28---release-and-deploy-the-process-)
   - [Summary](#summary)
 
 ## Overview <a name="overview"></a>
