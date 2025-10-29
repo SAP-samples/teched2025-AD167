@@ -21,6 +21,7 @@ In this exercise, you will need to approve/reject the equipment and training ass
 5. Go to the **Monitoring** section (left side menu) and click on Process and Workflow Instances.
 
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex3/images/Monitoring.png)
+
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex3/images/ProcessWorkflowInstances.png)
 
 6. Add **Completed** in the **Status** filter and search for your process. Click on it and review the logs for every process steps along with the event details that were exchanged between systems. 
