@@ -11,7 +11,9 @@ In this exercise, you will be setting up a SAP Build Process Automation (SBPA) p
 
 ### 1)	Create a new project based on the given "New Hire Onboarding Process TEMPLATE" project and save it. 
 
-1.	Login to [SAP Build Process Automation](https://ad167-us-wpjiqpp4.us10.build.cloud.sap/lobby) by using custom identity provider and your TechEd username and password. First you need to copy a template project that have some predefined steps. Go to the Lobby and find New Hire Onboarding Process TEMPLATE. From the tree dot button Options select Save as New Project. Copy the editable version of the project (New Hire Onboarding Process TEMPLATE) from lobby by adding your username at the end - DO NOT USE THIS PROJECT OR EDIT THIS, please copy and change the description.
+1.	Login to [SAP Build Process Automation](https://ad167-us-wpjiqpp4.us10.build.cloud.sap/lobby) by using custom identity provider and your TechEd username and password. 
+
+2. First you need to copy a template project that have some predefined steps. Go to the Lobby and find New Hire Onboarding Process TEMPLATE. From the tree dot button Options select Save as New Project. Copy the editable version of the project (New Hire Onboarding Process TEMPLATE) from lobby by adding your username at the end - DO NOT USE THIS PROJECT OR EDIT THIS, please copy and change the description.
 
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/tree%20dots%20menu.png)
 
@@ -19,7 +21,7 @@ In this exercise, you will be setting up a SAP Build Process Automation (SBPA) p
 
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/save%20as%20new%20projec%20name%20and%20description.png)
 
-2.	Once copied, open the project and find the New Employee Equipment and Training Approval Process in the Artifacts list. Open the process. 
+3.	Once copied, open the project and find the New Employee Equipment and Training Approval Process in the Artifacts list. Open the process. 
 
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/openprocess.png)
 
