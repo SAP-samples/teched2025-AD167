@@ -1,6 +1,6 @@
 # Exercise 3 - Run Process
 ***PLEASE LOGOUT and re-login in incognito mode with your user to run the process***
-In this exercise, we will update the Sales Order that was created and add a billing reason to block the Sales Order for billing. The required event is dispatched from SAP S/AHANA and the process in SAP Build Process Automation is triggered. User approves the billing block removal via an approval form and the billing block in removed in  SAP S/4HANA.
+In this exercise, we will update the Sales Order that was created and add a billing reason to block the Sales Order for billing. The required event is dispatched from SAP S/AHANA and the process in SAP Build Process Automation is triggered. User approves the billing block removal via an approval form and the billing block in removed in  SAP S/4 HANA.
 
 ## Exercise 3.1 Change Billing Block Status in S/4HANA
 After completing these steps you will have changed the billing block status for the Sales Order.
