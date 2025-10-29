@@ -65,7 +65,7 @@ In this exercise, you will be setting up a SAP Build Process Automation (SBPA) p
 
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/SBPAStep8.png)
 
-4. Enter the mapping for the next action field and **Save**. Add** emailNav,phoneNav,personalInfoNav,socialAccountNav** in **$expand** field. Check the destination and use the previous destination if it does not exist and **Save**.
+4. Enter the mapping for the next action field and **Save**. Add **emailNav,phoneNav,personalInfoNav,socialAccountNav** in **$expand** field. Check the destination and use the previous destination if it does not exist and **Save**.
 
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/SBPAStep9.png)
 
