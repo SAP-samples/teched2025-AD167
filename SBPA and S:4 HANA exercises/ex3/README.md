@@ -5,13 +5,18 @@ In this exercise, we will update the Sales Order that was created and add a bill
 ## Exercise 3.1 Change Billing Block Status in S/4HANA
 After completing these steps you will have changed the billing block status for the Sales Order.
 
-1. Enter Order as the Sales Order number that was created in “Create Sales Order” exercise and click on “Continue”.
+1. Login to the [S/4 HANA system instance](https://my427029.s4hana.cloud.sap/ui)
+
+2. In the Search field type VA02 and select Change Sales Order operation.
+<br>![](./images/ChangeSalesOrder.png)
+
+3. Enter Order as the Sales Order number that was created in “Create Sales Order” exercise and click on “Continue”.
 <br>![](./images/001rp.png)
 
-2. In the “Sales” tab, enter Billing Block as any value from the drop down and “Save”. Note: The sales order is blocked only when any of the reasons are selected.
+4. In the “Sales” tab, enter Billing Block as any value from the drop down and “Save”. Note: The sales order is blocked only when any of the reasons are selected.
 <br>![](./images/002rp.png)
 
-3. Check the confirmation that the Sales Order was saved.
+5. Check the confirmation that the Sales Order was saved.
 <br>![](./images/003np.png)
 
 Note: Now the event “Billing block status changed” will be triggered from SAP S/4HANA which will trigger the process that is created in SAP Build Process Automation.
