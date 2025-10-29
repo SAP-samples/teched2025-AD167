@@ -24,11 +24,11 @@ By the end of the session, you will be equipped with the knowledge to leverage t
 
 ## Requirements
 
-There are no dedicated requirement for this exercise. But in case you want to gain some further knowledge around SAP Build you can browse the official materials of [SAP Build](https://www.sap.com/products/technology-platform/build.html)
+There are no dedicated requirement for this exercise. But in case you want to gain some further knowledge around SAP Build you can browse the official materials of [SAP Build](https://www.sap.com/products/technology-platform/build.html).
 
 ## Exercises
 
-Whithin this hands-on session you will be able to explore two scenarios
+Whithin this hands-on session you will be able to explore two scenarios.
 1. Removing a Billing block on a Sales Order in SAP S/4 HANA based on approval.
 2. Assign dedicated traning and equipment to a new hire created from SAP SuccessFactors.
    
