@@ -77,7 +77,9 @@ Afterwards, click on **Create**.
 
 2.  Select the **Automated Process**:
 
- ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex2/images/Create%20Automated%20process.png). Select Process as type. 
+ ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex2/images/Create%20Automated%20process.png). 
+ 
+ Select **Process** as type. 
 
  ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex2/images/Create%20a%20process.png)
   
