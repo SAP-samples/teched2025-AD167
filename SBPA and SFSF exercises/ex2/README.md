@@ -13,15 +13,17 @@ Run through the following steps:
 
 3.	Add New Hire to Onboarding screen is opened. Populate the respective fields 
 ***IMPORTANT Replace XXX with the participant number that is assigned to you.***
-   - **3.1** First Name – type AD167-XXX-2025, replace XXX with your user ID (e.g. 001, 002, etc. )
-   - **3.2** Last Name – type TechEd2025
-   - **3.3** Email ID – type AD167-XXX-2025@sap.com, replace XXX with your user ID (e.g. 001, 002, etc. )
-   - **3.4** Hire Date – select today’s date. 
-   - **3.5** Company – select Ace India (ACE_IND)
-   - **3.7** Hiring Manager – select Rebecca Lee, Account Manager. 
-   - **3.8** Event Reason – select New Hire (HIRNEW)
+   - **3.1** First Name – type **AD167-XXX-2025**, replace XXX with your user ID (e.g. 001, 002, etc. )
+   - **3.2** Last Name – type **TechEd2025**
+   - **3.3** Email ID – type **AD167-XXX-2025@sap.com**, replace XXX with your user ID (e.g. 001, 002, etc. )
+   - **3.4** Hire Date – select **today’s date**. 
+   - **3.5** Company – select **Ace India (ACE_IND)**
+   - **3.7** Hiring Manager – select **Rebecca Lee**, Account Manager. 
+   - **3.8** Event Reason – select **New Hire (HIRNEW)**
+   - **3.9** Select checkbox **Add New Employee ID**
+   - **4.0** Set value for the Employee ID same as the one set as **First name in 3.1 (AD167-XXX-2025)**
 
-![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex2/images/AddNewHireOnboardingScreen.png)
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex2/images/AddNewHireFirstScreen.png)
 
 Once completed, click **Provide additional details** to continue the wizard.
      
