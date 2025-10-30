@@ -83,9 +83,9 @@ In this exercise, you will be setting up a SAP Build Process Automation (SBPA) p
 
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/SBPAStep12.png)
 
-8. For **approved** and **rejected** email notifications, please enter your own email id to receive the email
+8. For **approved** and **rejected** email notifications, please enter your own email id to receive the email.
 
-![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/SBPAStep12.png)
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/ApproveNotification.png)
 
 >  Note: Now, your project inputs are mapped. 
 
@@ -103,8 +103,7 @@ In this exercise, you will be setting up a SAP Build Process Automation (SBPA) p
 
 3. Select Destination variables S4HANA_Purchase_Order and SFSF_TESTING
 
-![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/ApproveNotification.png)
-
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/SelectDestinations.png)
 ## Summary
 
 At the end of this exercise, you should have configured, released and deployed the SAP Build Process Automation (SBPA) project to manage the approval workflow for equipment and training of newly hired employee.
