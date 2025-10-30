@@ -6,7 +6,7 @@ In this exercise, you will need to approve/reject the equipment and training ass
 
 ### Approve Equipment and Training Request
 
-1. Login to [SAP Build Proccess Automation](https://ad167-us-wpjiqpp4.us10.build.cloud.sap/lobby), by using your TechEd username AD167-000@education.cloud.sap, where XXX is your ID and password: Adm1nteched25. 
+1. Login to [SAP Build Proccess Automation](https://ad167-us-wpjiqpp4.us10.build.cloud.sap/lobby), by using your TechEd username AD167-XXX@education.cloud.sap, where XXX is your ID and password: Acce$$teched25. 
 
 2. On the **Lobby** page go to the My inbox icon and click on it in order to view the tasks that are waiting for your approval. 
 
