@@ -30,7 +30,7 @@ Once completed, click **Provide additional details** to continue the wizard.
 4. On the next screen scroll down to Employee Information field and validate that the user ID defined on the previous step is set correctly.  
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex2/images/UserIDpopulated.png)
 
-Then we click **Continue** to continue the wizard.
+Then click **Continue** to continue the wizard.
 
 5. On the next screen find **Email information** section and set “**Is Primary**” to “**Yes**”
 6. Add phone number – select type **Cell**, type number **336792939804**, and set “**Is Primary**” to “**Yes**”
