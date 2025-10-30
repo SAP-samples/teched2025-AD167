@@ -27,9 +27,8 @@ Run through the following steps:
 
 Once completed, click **Provide additional details** to continue the wizard.
      
-4. On the next screen scroll down to Employee Information section. Person ID is automatically populated. **Note it down** and replace the Person ID with AD167-XXX-2025, where XXX is your user ID. This will be your display name.
-
-![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex2/images/EmployeeInformation.png)
+4. On the next screen scroll down to Employee Information field and validate that the user ID defined on the previous step is set correctly.  
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex2/images/UserIDpopulated.png)
 
 Then we click **Continue** to continue the wizard.
 
