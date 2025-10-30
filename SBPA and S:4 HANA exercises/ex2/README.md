@@ -414,9 +414,9 @@ Once your project is free of errors, you may release and deploy it.
 
  You will see a change of status indicating that your project is released.
 
- 3. Choose the **Public** Environment and **Deploy** button to deploy the project.
+ 3. Choose the **AD167_S4HANA** Environment and **Deploy** button to deploy the project.
 
-  ![02](./images//072n.png)
+  ![02](./images//S4HANAEnvironment.png)
 
 4. Select the **SalesOrderDestination** **Destination** which you have already created previously and choose **Deploy**.
 
