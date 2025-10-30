@@ -24,7 +24,9 @@ In this exercise, you will need to approve/reject the equipment and training ass
 
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex3/images/ProcessWorkflowInstances.png)
 
-6. Add **Completed** in the **Status** filter and search for your process. Click on it and review the logs for every process steps along with the event details that were exchanged between systems. 
+6. Add **Completed** in the **Status** filter and search for your process. Click on it and review the logs for every process steps along with the event details that were exchanged between systems.
+
+7. Check your email for Approve / Reject notification.
 
 ## Summary
 
