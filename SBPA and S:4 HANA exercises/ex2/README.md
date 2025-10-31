@@ -179,7 +179,11 @@ Note that the Action step shows an Error icon on its left because we must now co
 4. In the **General** section of the Action:
 
   - Change the **Step Name** to Reads all items of the sales order
-  - Enter the **Destination variable**: SalesOrderDestination
+  - Create and select new **Destination variable** called: SalesOrderDestination
+
+  ![02](./images//SelectCreateDestination.png)
+
+  ![02](./images//CreateDestinationVariable.png)
 
   ![02](./images//SetReadActionGeneralValues.png)
 
