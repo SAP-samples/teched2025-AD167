@@ -79,11 +79,11 @@ In this exercise, you will be setting up a SAP Build Process Automation (SBPA) p
 
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/EMAILforAPPROVALPersonID.png)
 
-7. For the Create Purchase Order for Laptop, check the destination is set as for **S4HANADestination**.
+7. In the Create Purchase Order for Laptop action, check the destination is set as for **S4HANADestination**.
 
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/SBPAStep12.png)
 
-8. For **approved** and **rejected** email notifications, please enter your own email id to receive the email.
+8. In **approved** and **rejected** email notifications, please enter your own email id to receive the email.
 
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/ApproveNotification.png)
 
