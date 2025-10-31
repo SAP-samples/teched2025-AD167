@@ -16,7 +16,7 @@ In this exercise, you will need to approve/reject the equipment and training ass
 
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex3/images/ApprovalFormReview.png)
 
-4.Navigate left again to the list of tasks (the left side bar) and search for another task that contains the name of your new hire that you have created in exercise 2. Click on it to visualize the approval form for approving the equipment assigment. Select random purchase order date.  Provide comment in the deciated field. Now, go an click on **Approve**. 
+4. Navigate left again to the list of tasks (the left side bar) and search for another task that contains the name of your new hire that you have created in exercise 2. Click on it to visualize the approval form for approving the equipment assigment. Select random purchase order date.  Provide comment in the deciated field. Now, go an click on **Approve**. 
 
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex3/images/ApprovalPRform.png)
 
