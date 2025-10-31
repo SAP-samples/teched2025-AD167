@@ -352,8 +352,7 @@ You will add approval and rejection email to notify the requestors.
 
 1. In the Process Builder, select **+** under the **Updates a sales order** Action and choose **Email**.
 
-  ![02](./images//060a.png)
-  ![02](./images/060b.png)
+  ![02](./images/AddApprovalEmail.png)
 
 
 2. In the **General** section of the Email:
@@ -364,7 +363,7 @@ You will add approval and rejection email to notify the requestors.
 
   Afterward, **Open Mail Body Editor** to create what the email contains.
 
-  ![02](./images/061a.png)
+  ![02](./images/DefineApprovalNotification.png)
 
 3. In the **Edil Mail Body** popup:
 
@@ -378,7 +377,7 @@ You will add approval and rejection email to notify the requestors.
 
 4. Click on the + under Reject and Select **Email**
 
-  ![02](./images//063n.png)
+  ![02](./images//AddRejectEmail.png)
 
 5. In the **General** section of the Email:
 
@@ -388,7 +387,7 @@ You will add approval and rejection email to notify the requestors.
 
   Afterward, **Open Mail Body Editor** to create what the email contains.
 
-  ![02](./images//064n.png)
+  ![02](./images//DefineRejectEmail.png)
 
 6. In the **Edit Mail Body** popup:
 - Type email text such as **The request to remove billing block on the sales order has been rejected.**
@@ -400,7 +399,6 @@ You will add approval and rejection email to notify the requestors.
   ![02](./images/066n.png)
 
   Your Notification Emails are now added to the process.
-![02](./images//067n.png)
 
 ## Exercise 2.8 - Release and Deploy the Process <a name="releaseDeployProcess"></a>
 
@@ -408,7 +406,7 @@ Once your project is free of errors, you may release and deploy it.
 
 1. Choose the **Release** button on the top right.
 
-  ![02](./images//070n.png)
+  ![02](./images//FullProcessForRelease.png)
 
 2. In the **Release Project** pop-up, choose **Release**.
 
