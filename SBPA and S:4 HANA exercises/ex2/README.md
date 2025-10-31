@@ -34,7 +34,8 @@ In this exercise you will learn:
 
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex2/images/CustomIDP.png)
 
-2. Input your TechEd username **AD167-XXX@education.cloud.sap**, where XXX is your ID and password: **Adm1nteched25** and click **Continue**. 
+2. Input your TechEd username **AD167-XXX@education.cloud.sap**, where XXX is your ID and password: **Acce$$teched25** <img width="326" height="38" alt="image" src="https://github.com/user-attachments/assets/c65f7597-4b6b-4bf6-88be-5b80460c704c" />
+** and click **Continue**. 
 
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex2/images/UserPassword.png)
 
