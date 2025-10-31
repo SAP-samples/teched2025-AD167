@@ -265,7 +265,7 @@ You should now have a table that looks like below with 4 columns:
   - Under **Subject**, enter: **Approve billing block removal:** and select **SalesOrder** from the **Process Inputs**
   - Under **Recipients**, type in your own user that is used for initial login to the systems and make sure that **"ad" is in small caps** (ad167-XXX@education.cloud.sap) by relacing the XXX with your ID
 
-  ![02](./images//ApprovalFormSalesOderSubject.png)
+  ![02](./images//ApprovalFormGeneral.png)
 
 12. Click on the Approval Form step and go to the **Inputs** section and map the inputs with the Process Content:
 
@@ -276,23 +276,21 @@ You should now have a table that looks like below with 4 columns:
   - **Sold-To-Party** to Process inputs > SalesOrderInfo > SoldToParty
   - Choose **Save**
 
-  ![02](./images/ApprovalFormSalesOrderInput.png)
+  ![02](./images/ApprovalFormInput.png)
 
 
 ## Exercise 2.5 - Add Action to Read Sales Order Header <a name="actionReadSalesOrderHeader"></a>
 
 Navigate back to the **Billing Block Removal Process**, select the + sign to create conditional flows as to what happens when an approval form is **approved** or **rejected**.
 
-  ![02](./images//043n.png)
-
 1. You will now add an Action to the Process to read the sales order header.
 
-  ![02](./images//044n.png)
+  ![02](./images//AddActionReads.png)
 
 
 2. In the **Available Actions** pop-up, select the Action named **Reads the header of a sales order** .
 
-  ![02](./images//052n.png)
+  ![02](./images//AddedReadAllHeaders.png)
 
 3. In the **General** section of the Action:
 
@@ -303,15 +301,13 @@ Navigate back to the **Billing Block Removal Process**, select the + sign to cre
 
 > This is necessary since the etags are used for concurrency control.  If you have a UI, for example, then the UI reads data and a user may trigger updates to the business data. If another user changed something in the meantime, then our first user would trigger a change based on outdate information. This is why optimistic locking is used for concurrency control.
  
-
-
-  ![02](./images//053n.png)
+  ![02](./images//ChangeStepNameSetDestination.png)
 
 4. Go to the **inputs** section of the Action and map **SalesOrder** to **Process Inputs > data > SalesOrder**.
 
 5. Choose **Save**.
 
-  ![02](./images//054n.png)
+  ![02](./images//SetInputSOforETAG.png)
 
 
 ## Exercise 2.6 - Add Action to Update Sales Order <a name="actionUpdateSalesOrder"></a>
@@ -320,28 +316,28 @@ Now, you will add an Action to the Process to update the sales order.
 
 1. Like to previous exercise, in the Process Builder, select **+** under the previous Action and choose **Actions**.
 
-  ![02](./images//055n.png)
+  ![02](./images//StepUpdateSalesOrder.png)
 
 2. In the **Available Actions** pop-up, select **Updates a sales order**.
 
-  ![02](./images//056n.png)
+  ![02](./images//AddUpdateSalesOrderAction.png)
 
 3. In the **General** section of the Action:
 
   - Change the **Step Name** to: Updates a sales order
   - Select the **Destination variable:** SalesOrderDestination
 
-  ![02](./images//057n.png)
+  ![02](./images//AddSalesOrderActionGeneral.png)
 
 4. Go to the **Inputs** section of the Action and map **ifMatch** to **Get ETAG for PATCH > result > Sales Order Header > metadata > etag**.
 
-  ![02](./images//058n.png)
+  ![02](./images//UpdateSalesOrderActionInputEtag.png)
 
 5. Map **SalesOrder** to **Process Inputs > data > SalesOrder**
 
 6. Choose **Save**.
 
-  ![02](./images//059n.png)
+  ![02](./images//UpdateSalesOrderActionInputSO.png)
 
 
 ## Exercise 2.7 - Add Approval and Rejection Emails <a name="approvalRejectionNotifications"></a>
