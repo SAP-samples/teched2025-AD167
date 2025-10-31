@@ -77,7 +77,7 @@ In this exercise, you will be setting up a SAP Build Process Automation (SBPA) p
 
 6. For “Equipment and Training Request Approval Form” , add the **personIdExternal** from Process Inputs to the Subject and also update the users to receive the task in my inbox by using ad167-XXX@education.cloud.sap (replace XXX with your ID). Click **Save**.
 
-![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/SBPAStep11.png)
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/EMAILforAPPROVALPersonID.png)
 
 7. For the Create Purchase Order for Laptop, check the destination is set as for **S4HANADestination**.
 
