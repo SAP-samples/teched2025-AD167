@@ -93,7 +93,7 @@ In this exercise, you will be setting up a SAP Build Process Automation (SBPA) p
 
 1. Check the final project looks like following and has no errors.Env
 
-![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/FullProcessRelease.png)
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/FULLPROCESSSFSF.png)
 
 2. Release and Deploy the project to an environment name **AD167_SFSF**. Note that the deployment is successful.
 
