@@ -73,7 +73,7 @@ In this exercise, you will be setting up a SAP Build Process Automation (SBPA) p
 
 5. For Equipment Determination Decision, map the **Job Title** from the output of the step “Get entity from EmpEmployment by key” and **Save**. Do the same for **Training determination**.
 
-![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/JobTitle.png)
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/SFSFJobtitle.png)
 
 6. For “Equipment and Training Request Approval Form” , add the **personIdExternal** from Process Inputs to the Subject and also update the users to receive the task in my inbox by using ad167-XXX@education.cloud.sap (replace XXX with your ID). Click **Save**.
 
