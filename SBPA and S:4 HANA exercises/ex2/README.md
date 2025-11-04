@@ -160,7 +160,7 @@ The **Event Trigger** is now created. Please make sure to save your work.
 
 Next, you will add an Action to the Process that will read the sales order items.
 
-> With Actions, you can embed external skills and capabilities into your business process projects by uploading an open API specification file in JSON format. Action projects allow external systems and solutions to communicate with SAP Build Process Automation.
+> With Actions, you can embed external skills and capabilities into your business process projects by uploading an open API specification file in JSON format. Action projects allow external systems and solutions to communicate with SAP Build Process Automation. For convenience for this hands-on session the Action projects are pre-created, tested , released and published to the Library. So they can be now directly consumes in SAP Build Process Automation. They follow the similar lifecycle as Event Projects that we just created
 
 1. In the Process Builder, select the **+** underneath the **If** branch of the Condition created, then choose **Action > Browse library**.
 
@@ -196,7 +196,7 @@ Note that the Action step shows an Error icon on its left because we must now co
 
 ## Exercise 2.4 - Add Approver Form with Sales Order Items Table
 
-You will now add the Approval Form with Sales Order Items Table to the Process.
+You will now add the Approval Form to the process with Sales Order Header and Items details.
 
 1. In the Process Builder, select the **+** under the Action and choose **Approvals > Blank Approval**.
 
@@ -263,7 +263,7 @@ You should now have a table that looks like below with 4 columns:
 11. Select the Approval Form. In the **General** section of the Form:
 
   - Under **Subject**, enter: **Approve billing block removal:** and select **SalesOrder** from the **Process Inputs**
-  - Under **Recipients**, type in your own user that is used for initial login to the systems and make sure that **"ad" is in small caps** (ad167-XXX@education.cloud.sap) by relacing the XXX with your ID
+  - Under **Recipients**, type in your own user that is used for initial login to the systems and make sure that **"ad" is in small caps** (ad167-XXX@education.cloud.sap) by replacing the XXX with your ID
 
   ![02](./images//ApprovalFormGeneral.png)
 
@@ -271,7 +271,7 @@ You should now have a table that looks like below with 4 columns:
 
   - **BillingBlockStatus** to Process inputs > SalesOrderInfo > OverallBillingBlockStatus
   - **Distribution Channel** to Process inputs > SalesOrderInfo > DistributionChannel
-  - **Items Details** to Process Inputs > select listResults
+  - **Items Details** to Process Inputs > select listResults. Please expand the Item Details and verify that all the sub-fields are populated and none of them is left blank
   - **Sales Order** to Process inputs > SalesOrderInfo > SalesOrder
   - **Sold-To-Party** to Process inputs > SalesOrderInfo > SoldToParty
   - Choose **Save**
@@ -365,7 +365,7 @@ You will add approval and rejection email to notify the requestors.
 
   ![02](./images/DefineApprovalNotification.png)
 
-3. In the **Edil Mail Body** popup:
+3. In the **Email Mail Body** popup:
 
   - Type email text such as **The request for removal of billing block has been approved for Sales Order.**
   - Map **Sales Order Number** to **Process Inputs > data > SalesOrder**
