@@ -13,8 +13,6 @@ and innovations, reduce upgrade and maintenance costs, and improve agility in re
 
 This session introduces attendees how to modify or extend standard business processes from SAP S/4HANA and SAP SuccessFactors by leveraging SBPA extensibility capabilities and variety of event channels and business events that are supported.
 
-<img width="1276" height="601" alt="E2EFlow" src="https://github.com/user-attachments/assets/f3f56f8c-8cb9-4507-863a-eda53879bf1e" />
-
 You will:
 + Learn about the new integration capabilities between SBPA, SAP Cloud Application Event Hub and Event Mesh, which enhance event exchange across SAP cloud applications.
 + Understand how this integration supports SAP’s event-driven architecture initiative, simplifying and optimizing business processes.
@@ -32,12 +30,12 @@ Whithin this hands-on session you will be able to explore two scenarios.
 1. Removing a Billing block on a Sales Order in SAP S/4 HANA based on approval.
 2. Assign dedicated traning and equipment to a new hire created from SAP SuccessFactors.
    
-- [Exercise SAP Build Process Automation and S/4 HANA](https://github.com/SAP-samples/teched2025-AD167/tree/main/SBPA%20and%20S%3A4%20HANA%20exercises)
+- [SAP Build Process Automation and S/4 HANA Public Cloud Edition](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20S%3A4%20HANA%20exercises/readme.md)
     - [Exercise 1.1 - Create Sales Order](https://github.com/SAP-samples/teched2025-AD167/tree/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex1)
     - [Exercise 1.2 - Create Process](https://github.com/SAP-samples/teched2025-AD167/tree/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex2)
     - [Exercise 1.3 - Run Process](https://github.com/SAP-samples/teched2025-AD167/tree/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex3)
       
-- [Exercise SAP Build Process Automation and SAP SuccessFactors](https://github.com/SAP-samples/teched2025-AD167/tree/main/SBPA%20and%20SFSF%20exercises)
+- [SAP Build Process Automation , SAP SuccessFactors and SAP S/4HANA Public Cloud Edition](https://github.com/SAP-samples/teched2025-AD167/tree/main/SBPA%20and%20SFSF%20exercises)
     - [Exercise 2.1 - Create and Configure the SAP Build Process Automation Project for Equipment and Training Approval Workflow](https://github.com/SAP-samples/teched2025-AD167/tree/main/SBPA%20and%20SFSF%20exercises/ex1)
     - [Exercise 2.2 - Add a New Employee in SAP SuccessFactors](https://github.com/SAP-samples/teched2025-AD167/tree/main/SBPA%20and%20SFSF%20exercises/ex2)
     - [Exercise 2.3 - Complete the process in SAP Build Process Automation](https://github.com/SAP-samples/teched2025-AD167/tree/main/SBPA%20and%20SFSF%20exercises/ex3)
