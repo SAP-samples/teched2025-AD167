@@ -339,7 +339,7 @@ Now, you will add an Action to the Process to update the sales order.
 You will add approval and rejection email to notify the requestors. 
 
 > Note: The current tenant has the email server destination that is configured only for SAP email ids.
-> If you do not have an sap email id, please skip to  [Exercise 2.7 - Release and Deploy the Process ](#exercise-27---release-and-deploy-the-process-)
+> If you do not have an sap email id, please skip to  [Exercise 2.8 - Release and Deploy the Process ](#exercise-27---release-and-deploy-the-process-)
 
 
 1. In the Process Builder, select **+** under the **Updates a sales order** Action and choose **Email**.
