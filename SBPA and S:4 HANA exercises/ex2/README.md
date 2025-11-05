@@ -6,7 +6,7 @@
 - [Exercise 2 - Create Process ](#exercise-2---create-process-)
   - [Table of Contents ](#table-of-contents-)
   - [Overview ](#overview-)
-  - [Exercise 2.0 - Download event from from SAP Business Accelerator Hub to SAP Build](#exercise-20-download-event-from-from-sap-business-accelerator-hub-to-sap-build)
+  - [Exercise 2.0 - Download event from SAP Business Accelerator Hub to SAP Build](#exercise-20-download-event-from-from-sap-business-accelerator-hub-to-sap-build)
   - [Exercise 2.1 - Add Event Trigger to Process ](#exercise-21---add-event-trigger-to-process-)
   - [Exercise 2.2 - Add Condition based on Sales Order Number ](#exercise-22---add-condition-based-on-sales-order-number-)
   - [Exercise 2.3 - Add Action to Read Sales Order Items ](#exercise-23---add-action-to-read-sales-order-items-)
