@@ -338,10 +338,8 @@ Now, you will add an Action to the Process to update the sales order.
 
 You will add approval and rejection email to notify the requestors. 
 
-> Note: In order for this step to work, you need to have an email server configured in your SAP Build Process Automation tenant. For more, see [here](https://help.sap.com/docs/build-process-automation/sap-build-process-automation/configuring-smtp-mail-destination).
-> If you do not have it configured, please skip to  [Exercise 2.7 - Release and Deploy the Process ](#exercise-27---release-and-deploy-the-process-)
-
-
+> Note: The current tenant has the email server destination that is configured only for SAP email ids.
+> If you do not have an sap email id, please skip to  [Exercise 2.7 - Release and Deploy the Process ](#exercise-27---release-and-deploy-the-process-)
 
 
 1. In the Process Builder, select **+** under the **Updates a sales order** Action and choose **Email**.
