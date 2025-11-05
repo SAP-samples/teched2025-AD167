@@ -59,6 +59,7 @@ Afterwards, click on **Create**.
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex2/images/Set%20ID%20in%20the%20project%20name.png)
 
 8. Note that the Event project is created and already its released with version 1.0.0 and published already to the library. You can change the version from Editable to 1.0.0 from the top of the Event Project.
+![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex2/images/EventProjectPublished.png)
 
 ## Exercise 2.1 - Add Event Trigger to Process <a name="eventTrigger"></a>
  First, navigate to your SAP Build Lobby.
