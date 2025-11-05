@@ -58,14 +58,7 @@ Afterwards, click on **Create**.
 7. Afterwards, the Name and Description of the project are automatically populated. Please add the session code and your ID next to the autopopulated project name (ex. Sales Order Events_AD167_XXX). Once done, you can click on Create.
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20S%3A4%20HANA%20exercises/ex2/images/Set%20ID%20in%20the%20project%20name.png)
 
-8. Release the project by clicking on **Release** button.
-![02](./images/083.png)
-
-9. Click on Release to release the project as below.
-![02](./images/084.png)
-
-10. Once released, the project is automatically published. Click on the **Released** dropdown button to check the published version. 
-![02](./images/087.png)
+8. Note that the Event project is created and already its released with version 1.0.0 and published already to the library. You can change the version from Editable to 1.0.0 from the top of the Event Project.
 
 ## Exercise 2.1 - Add Event Trigger to Process <a name="eventTrigger"></a>
  First, navigate to your SAP Build Lobby.
