@@ -5,7 +5,7 @@ In this exercise, you will test the integration scenario by adding a new employe
 ## Exercise
 
 Run through the following steps:
-1.	Logon to the [SAP SuccessFactors](https://hcm-us10-sales.hr.cloud.sap/login?company=SFEDU033158) application using the user ID and password provided to you by the instructors. Example user id is AD167-XXX@education.cloud.sap, where XXX is your user ID.
+1.	Logon to the [SAP SuccessFactors](https://hcm-us10-sales.hr.cloud.sap/login?company=SFEDU033158) application using the user ID and password provided to you by the instructors. Example user id is AD167-XXX@education.cloud.sap, where XXX is your user ID, password: Acce$$teched25
 
 2. Search for Add New Hire to Onboarding in the main search bar. Select the option, this would bring you to the Add New Employee Wizard.
 
