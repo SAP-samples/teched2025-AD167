@@ -83,7 +83,7 @@ In this exercise, you will be setting up a SAP Build Process Automation (SBPA) p
 
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/SBPAStep12.png)
 
-8. In **approved** and **rejected** email notifications, please enter your own email id to receive the email.
+8. In **approved** and **rejected** email notifications, please enter your SAP email id to receive the email. If you do not have SAP email id, please delete these 2 steps and Save the project.
 
 ![alt text](https://github.com/SAP-samples/teched2025-AD167/blob/main/SBPA%20and%20SFSF%20exercises/ex1/images/ApproveNotification.png)
 
